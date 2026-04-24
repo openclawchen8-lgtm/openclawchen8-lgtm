@@ -66,8 +66,8 @@
 
 ## 🔗 快速連結
 
-- [每日儀表板 → DAILY.md](./DAILY.md)
-- [Tasks 根目錄](./)
+- [每日儀表板 → DAILY.md](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/DAILY.md)
+- [Tasks 根目錄](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main)
 - 腳本: `scripts/update_projects.sh` · `scripts/update_daily.sh`
 
 ---
