@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-06 19:16 · 自動生成
+> 最後更新: 2026-05-06 19:27 · 自動生成
 
 ---
 
@@ -10,11 +10,11 @@
 |------|------|
 | 專案數 | 45 |
 | 任務總數 | 285 |
-| ✅ 已完成 | 253 |
-| ⬜ 待處理 | 15 |
+| ✅ 已完成 | 263 |
+| ⬜ 待處理 | 5 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 11 |
-| 總完成率 | 88% |
+| 總完成率 | 92% |
 
 ## 🔥 待處理高優先級任務
 
@@ -69,7 +69,7 @@
 | ✅ | [skill-enhancement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/skill-enhancement) | 4 | 4 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 5 | 5 | 0 | 0 | ████████████████████ 100% | 2026-04-05 |
-| ⬜ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 0 | 11 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | — |
+| ⬜ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 10 | 1 | 0 | ██████████████████░░ 90% | — |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | ████████████████████ 100% | — |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
 | ✅ | [working-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/working-issue) | 4 | 4 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
