@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-07 20:31 · 自動生成
+> 最後更新: 2026-05-07 21:18 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 46 |
-| 任務總數 | 287 |
-| ✅ 已完成 | 222 |
-| ⬜ 待處理 | 48 |
+| 任務總數 | 288 |
+| ✅ 已完成 | 228 |
+| ⬜ 待處理 | 43 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 11 |
-| 總完成率 | 77% |
+| 總完成率 | 79% |
 
 ## 🔥 待處理高優先級任務
 
@@ -35,13 +35,13 @@
 | ✅ | [agent-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/agent-config) | 9 | 9 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
 | ✅ | [backup-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/backup-system) | 5 | 5 | 0 | 0 | ████████████████████ 100% | 2026-04-15 |
 | ✅ | [claw-sessions-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/claw-sessions-issue) | 1 | 1 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| ⬜ | [clawhub-oauth-investigation](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/clawhub-oauth-investigation) | 2 | 0 | 2 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-04-22 |
+| ✅ | [clawhub-oauth-investigation](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/clawhub-oauth-investigation) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [cmd-log-parser](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/cmd-log-parser) | 3 | 3 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [cnyes-stock](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/cnyes-stock) | 8 | 8 | 0 | 0 | ████████████████████ 100% | 2026-04-23 17:58 |
 | ✅ | [dashboard-tool](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/dashboard-tool) | 5 | 5 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
 | ✅ | [elevenlabs-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/elevenlabs-research) | 1 | 1 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [github-data-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/github-data-review) | 8 | 8 | 0 | 0 | ████████████████████ 100% | 2026-04-28 |
-| ✅ | [global-policy-refactor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/global-policy-refactor) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
+| ⬜ | [global-policy-refactor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/global-policy-refactor) | 3 | 2 | 1 | 0 | █████████████░░░░░░░ 66% | 2026-05-07 |
 | 🔄 | [gold-analysis-advanced](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-advanced) | 4 | 1 | 0 | 3 | █████░░░░░░░░░░░░░░░ 25% | 2026-04-22 |
 | ⏭️ | [gold-analysis-core](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-core) | 29 | 28 | 0 | 0 | ███████████████████░ 96% | 2026-04-16 |
 | ✅ | [gold-analysis-extend](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-extend) | 6 | 6 | 0 | 0 | ████████████████████ 100% | 2026-04-07 |
@@ -82,7 +82,7 @@
 | ⬜ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 0 | 1 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
 | ⬜ | [working-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/working-issue) | 4 | 2 | 2 | 0 | ██████████░░░░░░░░░░ 50% | 2026-05-07 |
-| ⬜ | [xiamen-travel](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/xiamen-travel) | 5 | 0 | 5 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-04-19 |
+| ⬜ | [xiamen-travel](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/xiamen-travel) | 5 | 4 | 1 | 0 | ████████████████░░░░ 80% | 2026-04-19 |
 
 ---
 
