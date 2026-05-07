@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-07 21:18 · 自動生成
+> 最後更新: 2026-05-07 21:33 · 自動生成
 
 ---
 
@@ -10,11 +10,11 @@
 |------|------|
 | 專案數 | 46 |
 | 任務總數 | 288 |
-| ✅ 已完成 | 228 |
-| ⬜ 待處理 | 43 |
+| ✅ 已完成 | 231 |
+| ⬜ 待處理 | 40 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 11 |
-| 總完成率 | 79% |
+| 總完成率 | 80% |
 
 ## 🔥 待處理高優先級任務
 
@@ -67,7 +67,7 @@
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ⬜ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 0 | 7 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| ⬜ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 1 | 5 | 0 | ███░░░░░░░░░░░░░░░░░ 16% | 2026-05-07 |
+| ⬜ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 2 | 4 | 0 | ██████░░░░░░░░░░░░░░ 33% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ⬜ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 0 | 2 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-05-07 |
 | 🔄 | [revenue-zero-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/revenue-zero-cost) | 15 | 14 | 0 | 1 | ██████████████████░░ 93% | 2026-04-20 |
@@ -81,7 +81,7 @@
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ⬜ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 0 | 1 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| ⬜ | [working-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/working-issue) | 4 | 2 | 2 | 0 | ██████████░░░░░░░░░░ 50% | 2026-05-07 |
+| ✅ | [working-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/working-issue) | 4 | 4 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ⬜ | [xiamen-travel](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/xiamen-travel) | 5 | 4 | 1 | 0 | ████████████████░░░░ 80% | 2026-04-19 |
 
 ---
