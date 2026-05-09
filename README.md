@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-09 13:08 · 自動生成
+> 最後更新: 2026-05-10 05:10 · 自動生成
 
 ---
 
@@ -10,9 +10,9 @@
 |------|------|
 | 專案數 | 46 |
 | 任務總數 | 290 |
-| ✅ 已完成 | 270 |
+| ✅ 已完成 | 271 |
 | ⬜ 待處理 | 6 |
-| 🔄 進行中 | 4 |
+| 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 93% |
 
@@ -54,7 +54,7 @@
 | ✅ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 6 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [llm-router](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/llm-router) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| 🔄 | [md-viewer-app](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/md-viewer-app) | 43 | 31 | 3 | 3 | ██████████████░░░░░░ 72% | 2026-05-09 |
+| 🔄 | [md-viewer-app](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/md-viewer-app) | 43 | 32 | 3 | 2 | ██████████████░░░░░░ 74% | 2026-05-10 |
   **[T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md)**: [T023] 滾動位置保持
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
