@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-09 08:20 · 自動生成
+> 最後更新: 2026-05-09 08:23 · 自動生成
 
 ---
 
@@ -10,8 +10,8 @@
 |------|------|
 | 專案數 | 46 |
 | 任務總數 | 290 |
-| ✅ 已完成 | 235 |
-| ⬜ 待處理 | 40 |
+| ✅ 已完成 | 237 |
+| ⬜ 待處理 | 38 |
 | 🔄 進行中 | 5 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 81% |
@@ -24,7 +24,6 @@
 | gold-analysis-improve | [T010](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-improve/tasks/T010.md) | gold_bot_history.py 重構：DB自動建立 + gap-filling |
 | gold-analysis-improve | [T012](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-improve/tasks/T012.md) | gold_monitor_pro 架構重構：移除 SQLite 寫入，改用 tmp file 即時檢查 |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
-| md-viewer-app | [T024-視窗大小位置記憶](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T024-視窗大小位置記憶.md) | [T024] 視窗大小/位置/檔案記憶 |
 
 ---
 
@@ -61,9 +60,8 @@
 | ⬜ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 0 | 6 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [llm-router](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/llm-router) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| 🔄 | [md-viewer-app](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/md-viewer-app) | 43 | 29 | 7 | 1 | █████████████░░░░░░░ 67% | 2026-05-07 |
+| 🔄 | [md-viewer-app](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/md-viewer-app) | 43 | 31 | 5 | 1 | ██████████████░░░░░░ 72% | 2026-05-07 |
   **[T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md)**: [T023] 滾動位置保持
-  **[T024-視窗大小位置記憶](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T024-視窗大小位置記憶.md)**: [T024] 視窗大小/位置/檔案記憶
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ⬜ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 0 | 7 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
