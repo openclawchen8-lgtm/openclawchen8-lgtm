@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-09 09:24 · 自動生成
+> 最後更新: 2026-05-09 09:28 · 自動生成
 
 ---
 
@@ -11,8 +11,8 @@
 | 專案數 | 46 |
 | 任務總數 | 290 |
 | ✅ 已完成 | 270 |
-| ⬜ 待處理 | 4 |
-| 🔄 進行中 | 6 |
+| ⬜ 待處理 | 7 |
+| 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 93% |
 
@@ -38,7 +38,7 @@
 | ✅ | [elevenlabs-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/elevenlabs-research) | 1 | 1 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [github-data-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/github-data-review) | 8 | 8 | 0 | 0 | ████████████████████ 100% | 2026-04-28 |
 | ✅ | [global-policy-refactor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/global-policy-refactor) | 3 | 3 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
-| 🔄 | [gold-analysis-advanced](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-advanced) | 4 | 1 | 0 | 3 | █████░░░░░░░░░░░░░░░ 25% | 2026-04-22 |
+| 🔄 | [gold-analysis-advanced](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-advanced) | 4 | 1 | 2 | 1 | █████░░░░░░░░░░░░░░░ 25% | 2026-04-22 |
 | ⏭️ | [gold-analysis-core](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-core) | 29 | 28 | 0 | 0 | ███████████████████░ 96% | 2026-04-16 |
 | ✅ | [gold-analysis-extend](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-extend) | 6 | 6 | 0 | 0 | ████████████████████ 100% | 2026-04-07 |
 | ✅ | [gold-analysis-improve](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-improve) | 12 | 12 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
@@ -62,7 +62,7 @@
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
-| 🔄 | [revenue-zero-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/revenue-zero-cost) | 15 | 14 | 0 | 1 | ██████████████████░░ 93% | 2026-04-20 |
+| ⬜ | [revenue-zero-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/revenue-zero-cost) | 15 | 14 | 1 | 0 | ██████████████████░░ 93% | 2026-04-20 |
 | ✅ | [security-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/security-improvements) | 7 | 7 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
 | ✅ | [security-tools](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/security-tools) | 5 | 5 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
 | ✅ | [session-logger-plugin](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/session-logger-plugin) | 5 | 5 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
