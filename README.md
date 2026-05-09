@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-09 08:23 · 自動生成
+> 最後更新: 2026-05-09 08:33 · 自動生成
 
 ---
 
@@ -10,19 +10,16 @@
 |------|------|
 | 專案數 | 46 |
 | 任務總數 | 290 |
-| ✅ 已完成 | 237 |
-| ⬜ 待處理 | 38 |
+| ✅ 已完成 | 240 |
+| ⬜ 待處理 | 35 |
 | 🔄 進行中 | 5 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 81% |
+| 總完成率 | 82% |
 
 ## 🔥 待處理高優先級任務
 
 | 專案 | 任務 | 標題 |
 |------|------|------|
-| gold-analysis-improve | [T008](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-improve/tasks/T008.md) | 接 Yahoo Finance 歷史黃金報價，補足技術分析所需數據 |
-| gold-analysis-improve | [T010](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-improve/tasks/T010.md) | gold_bot_history.py 重構：DB自動建立 + gap-filling |
-| gold-analysis-improve | [T012](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-improve/tasks/T012.md) | gold_monitor_pro 架構重構：移除 SQLite 寫入，改用 tmp file 即時檢查 |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 
 ---
@@ -44,10 +41,7 @@
 | 🔄 | [gold-analysis-advanced](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-advanced) | 4 | 1 | 0 | 3 | █████░░░░░░░░░░░░░░░ 25% | 2026-04-22 |
 | ⏭️ | [gold-analysis-core](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-core) | 29 | 28 | 0 | 0 | ███████████████████░ 96% | 2026-04-16 |
 | ✅ | [gold-analysis-extend](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-extend) | 6 | 6 | 0 | 0 | ████████████████████ 100% | 2026-04-07 |
-| ⬜ | [gold-analysis-improve](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-improve) | 12 | 8 | 4 | 0 | █████████████░░░░░░░ 66% | 2026-05-07 |
-  **[T008](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-improve/tasks/T008.md)**: 接 Yahoo Finance 歷史黃金報價，補足技術分析所需數據
-  **[T010](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-improve/tasks/T010.md)**: gold_bot_history.py 重構：DB自動建立 + gap-filling
-  **[T012](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-improve/tasks/T012.md)**: gold_monitor_pro 架構重構：移除 SQLite 寫入，改用 tmp file 即時檢查
+| ⬜ | [gold-analysis-improve](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-improve) | 12 | 11 | 1 | 0 | ██████████████████░░ 91% | 2026-05-07 |
 | ✅ | [gold-analysis-merge](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-merge) | 1 | 1 | 0 | 0 | ████████████████████ 100% | 2026-04-18 |
 | ✅ | [gold-analysis-platform](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-platform) | 3 | 3 | 0 | 0 | ████████████████████ 100% | 2026-04-07 |
 | ⬜ | [gold-monitor-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-monitor-issue) | 8 | 4 | 2 | 0 | ██████████░░░░░░░░░░ 50% | 2026-05-07 |
