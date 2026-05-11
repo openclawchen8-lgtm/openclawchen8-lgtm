@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-12 00:28 · 自動生成
+> 最後更新: 2026-05-12 00:41 · 自動生成
 
 ---
 
@@ -9,8 +9,8 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 46 |
-| 任務總數 | 292 |
-| ✅ 已完成 | 274 |
+| 任務總數 | 293 |
+| ✅ 已完成 | 275 |
 | ⬜ 待處理 | 6 |
 | 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 9 |
@@ -69,7 +69,7 @@
 | ✅ | [sinotrade-scraper](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/sinotrade-scraper) | 9 | 8 | 0 | 0 | 1 | ████████████████████ 100% | 2026-04-28 |
 | ✅ | [skill-enhancement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/skill-enhancement) | 4 | 4 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
-| ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
+| ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
