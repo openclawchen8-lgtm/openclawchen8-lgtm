@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-12 06:17 · 自動生成
+> 最後更新: 2026-05-12 06:22 · 自動生成
 
 ---
 
@@ -10,17 +10,16 @@
 |------|------|
 | 專案數 | 47 |
 | 任務總數 | 299 |
-| ✅ 已完成 | 282 |
-| ⬜ 待處理 | 6 |
+| ✅ 已完成 | 283 |
+| ⬜ 待處理 | 5 |
 | 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 8 |
-| 總完成率 | 96% |
+| 總完成率 | 97% |
 
 ## 🔥 待處理高優先級任務
 
 | 專案 | 任務 | 標題 |
 |------|------|------|
-| ideas2tasks-improvements | [T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/ideas2tasks-improvements/tasks/T002.md) | LLM 的全域上下文感知 (Context-Aware Classification) |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 
 ---
@@ -31,8 +30,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 40 |
-| 過去 30 天完成 | 183 |
+| 過去 7 天完成 | 41 |
+| 過去 30 天完成 | 184 |
 | 平均週期時間 | 1.0 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -51,7 +50,7 @@
       ────────────────────────────────────────────────────────
       04-29   05-01   05-03   05-05   05-07   05-09   05-11  
 
-  📈 總計: 48 | 日均: 3.4 | 本週: 40 | 📈 成長中
+  📈 總計: 49 | 日均: 3.5 | 本週: 41 | 📈 成長中
 ```
 
 ## 📋 專案列表
@@ -81,8 +80,7 @@
 | ✅ | [gpt-sovits-voices-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gpt-sovits-voices-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [ideas2tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-23 |
 | ✅ | [ideas2tasks-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-fix) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| ⬜ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 6 | 5 | 1 | 0 | 0 | ████████████████░░░░ 83% | 2026-05-12 |
-  **[T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/ideas2tasks-improvements/tasks/T002.md)**: LLM 的全域上下文感知 (Context-Aware Classification)
+| ✅ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
 | ✅ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [llm-router](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/llm-router) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
