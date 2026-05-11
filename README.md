@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-12 04:44 · 自動生成
+> 最後更新: 2026-05-12 05:50 · 自動生成
 
 ---
 
@@ -10,8 +10,8 @@
 |------|------|
 | 專案數 | 47 |
 | 任務總數 | 299 |
-| ✅ 已完成 | 277 |
-| ⬜ 待處理 | 12 |
+| ✅ 已完成 | 278 |
+| ⬜ 待處理 | 11 |
 | 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 8 |
 | 總完成率 | 95% |
@@ -20,7 +20,6 @@
 
 | 專案 | 任務 | 標題 |
 |------|------|------|
-| ideas2tasks-improvements | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/ideas2tasks-improvements/tasks/T001.md) | 真正的 GitHub 雙向狀態同步 (Bi-directional Sync) |
 | ideas2tasks-improvements | [T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/ideas2tasks-improvements/tasks/T002.md) | LLM 的全域上下文感知 (Context-Aware Classification) |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 
@@ -53,8 +52,7 @@
 | ✅ | [gpt-sovits-voices-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gpt-sovits-voices-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [ideas2tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-23 |
 | ✅ | [ideas2tasks-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-fix) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| ⬜ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 6 | 0 | 6 | 0 | 0 | ░░░░░░░░░░░░░░░░░░░░ 0% | 2026-05-12 |
-  **[T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/ideas2tasks-improvements/tasks/T001.md)**: 真正的 GitHub 雙向狀態同步 (Bi-directional Sync)
+| ⬜ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 6 | 1 | 5 | 0 | 0 | ███░░░░░░░░░░░░░░░░░ 16% | 2026-05-12 |
   **[T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/ideas2tasks-improvements/tasks/T002.md)**: LLM 的全域上下文感知 (Context-Aware Classification)
 | ✅ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
