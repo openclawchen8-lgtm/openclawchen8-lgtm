@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-12 15:42 · 自動生成
+> 最後更新: 2026-05-12 16:08 · 自動生成
 
 ---
 
@@ -9,8 +9,8 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 48 |
-| 任務總數 | 308 |
-| ✅ 已完成 | 294 |
+| 任務總數 | 309 |
+| ✅ 已完成 | 295 |
 | ⬜ 待處理 | 5 |
 | 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 7 |
@@ -60,8 +60,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 50 |
-| 過去 30 天完成 | 195 |
+| 過去 7 天完成 | 51 |
+| 過去 30 天完成 | 196 |
 | 平均週期時間 | 1.0 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -71,10 +71,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["04-29", "04-30", "05-01", "05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12"]
     y-axis "完成數" 0 --> 28
-    line [0, 0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 18]
+    line [0, 0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 19]
 ```
 
-📊 總計: 58 | 日均: 4.1 | 本週: 50 | 📈 成長中
+📊 總計: 59 | 日均: 4.2 | 本週: 51 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -103,7 +103,7 @@ xychart-beta
 | ✅ | [gpt-sovits-voices-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gpt-sovits-voices-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [ideas2tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-23 |
 | ✅ | [ideas2tasks-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-fix) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| ✅ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
+| ✅ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
 | ✅ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [llm-router](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/llm-router) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
