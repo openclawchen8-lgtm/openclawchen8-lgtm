@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-12 15:32 · 自動生成
+> 最後更新: 2026-05-12 15:42 · 自動生成
 
 ---
 
@@ -23,6 +23,36 @@
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 
 ---
+
+
+## ⬜ 待處理
+
+| 專案 | 任務 | 標題 | 狀態 |
+|------|------|------|------|
+| gold-analysis-advanced | [T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T002.md) | ML 模型整合與優化 | ⬜ |
+| gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
+| md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 | ⬜ |
+| md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
+| revenue-zero-cost | [T008](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/revenue-zero-cost/tasks/T008.md) | 技術社群曝光 | ⬜ |
+
+## 🔄 進行中
+
+| 專案 | 任務 | 標題 | 狀態 |
+|------|------|------|------|
+| gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
+| md-viewer-app | [T026-專注模式](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T026-專注模式.md) | [T026] 專注模式（Focus Mode） | 🔄 |
+
+## ⏭️ 跳過
+
+| 專案 | 任務 | 標題 | 狀態 |
+|------|------|------|------|
+| gold-analysis-core | [T003-C](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-core/tasks/T003-C.md) | 數據庫模組測試 | ⏭️ |
+| gold-monitor-issue | [T005](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-monitor-issue/tasks/T005.md) | 請檢查及修正 黃金存摺價格監控 的問題（見 T001） | ⏭️ |
+| gold-monitor-issue | [T006](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-monitor-issue/tasks/T006.md) | 更新為同時抓取及顯示 黃金存摺 賣出 買入 價格（見 T004） | ⏭️ |
+| md-viewer-app | [T004-實作-側邊欄-檔案列表](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T004-實作-側邊欄-檔案列表.md) | 實作側邊欄檔案列表 | ⏭️ |
+| md-viewer-app | [T015-Quick-Look-插件](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T015-Quick-Look-插件.md) | [T015] Quick Look 插件 | ⏭️ |
+| md-viewer-app | [T018-置頂小窗模式](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T018-置頂小窗模式.md) | [T018] 置頂小窗模式 | ⏭️ |
+| sinotrade-scraper | [T008](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/sinotrade-scraper/tasks/T008.md) | 完整報告內容讀取（需登入，暫緩） | ⏭️ |
 
 ---
 
