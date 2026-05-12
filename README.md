@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-12 13:48 · 自動生成
+> 最後更新: 2026-05-12 14:38 · 自動生成
 
 ---
 
@@ -9,8 +9,8 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 48 |
-| 任務總數 | 300 |
-| ✅ 已完成 | 286 |
+| 任務總數 | 308 |
+| ✅ 已完成 | 294 |
 | ⬜ 待處理 | 5 |
 | 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 7 |
@@ -30,9 +30,9 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 42 |
-| 過去 30 天完成 | 187 |
-| 平均週期時間 | 1.1 天 |
+| 過去 7 天完成 | 50 |
+| 過去 30 天完成 | 195 |
+| 平均週期時間 | 1.0 天 |
 | 週期時間中位數 | 0.0 天 |
 
 
@@ -41,10 +41,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["04-29", "04-30", "05-01", "05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12"]
     y-axis "完成數" 0 --> 28
-    line [0, 0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 10]
+    line [0, 0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 18]
 ```
 
-📊 總計: 50 | 日均: 3.6 | 本週: 42 | 📈 成長中
+📊 總計: 58 | 日均: 4.1 | 本週: 50 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -55,7 +55,7 @@ xychart-beta
 | ✅ | [claw-sessions-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/claw-sessions-issue) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [clawhub-oauth-investigation](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/clawhub-oauth-investigation) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [cmd-log-parser](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/cmd-log-parser) | 3 | 3 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| ✅ | [cnyes-stock](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/cnyes-stock) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-23 17:58 |
+| ✅ | [cnyes-stock](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/cnyes-stock) | 16 | 16 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
 | ✅ | [dashboard-tool](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/dashboard-tool) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
 | ✅ | [elevenlabs-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/elevenlabs-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [github-data-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/github-data-review) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-28 |
