@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-12 08:41 · 自動生成
+> 最後更新: 2026-05-12 09:45 · 自動生成
 
 ---
 
@@ -10,9 +10,9 @@
 |------|------|
 | 專案數 | 47 |
 | 任務總數 | 299 |
-| ✅ 已完成 | 284 |
+| ✅ 已完成 | 285 |
 | ⬜ 待處理 | 5 |
-| 🔄 進行中 | 3 |
+| 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 7 |
 | 總完成率 | 97% |
 
@@ -30,9 +30,9 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 41 |
-| 過去 30 天完成 | 185 |
-| 平均週期時間 | 1.0 天 |
+| 過去 7 天完成 | 42 |
+| 過去 30 天完成 | 186 |
+| 平均週期時間 | 1.1 天 |
 | 週期時間中位數 | 0.0 天 |
 
 
@@ -50,7 +50,7 @@
       ────────────────────────────────────────────────────────
       04-29   05-01   05-03   05-05   05-07   05-09   05-11  
 
-  📈 總計: 49 | 日均: 3.5 | 本週: 41 | 📈 成長中
+  📈 總計: 50 | 日均: 3.6 | 本週: 42 | 📈 成長中
 ```
 
 ## 📋 專案列表
@@ -84,7 +84,7 @@
 | ✅ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [llm-router](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/llm-router) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| 🔄 | [md-viewer-app](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/md-viewer-app) | 44 | 37 | 2 | 2 | 3 | ██████████████████░░ 90% | 2026-05-12 |
+| 🔄 | [md-viewer-app](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/md-viewer-app) | 44 | 38 | 2 | 1 | 3 | ██████████████████░░ 92% | 2026-05-12 |
   **[T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md)**: [T023] 滾動位置保持
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
