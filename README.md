@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-12 09:50 · 自動生成
+> 最後更新: 2026-05-12 12:56 · 自動生成
 
 ---
 
@@ -8,9 +8,9 @@
 
 | 指標 | 數量 |
 |------|------|
-| 專案數 | 47 |
-| 任務總數 | 299 |
-| ✅ 已完成 | 285 |
+| 專案數 | 48 |
+| 任務總數 | 300 |
+| ✅ 已完成 | 286 |
 | ⬜ 待處理 | 5 |
 | 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 7 |
@@ -31,7 +31,7 @@
 | 指標 | 數值 |
 |------|------|
 | 過去 7 天完成 | 42 |
-| 過去 30 天完成 | 186 |
+| 過去 30 天完成 | 187 |
 | 平均週期時間 | 1.1 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -85,6 +85,7 @@ xychart-beta
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
+| ✅ | [research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-28 |
 | ⬜ | [revenue-zero-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/revenue-zero-cost) | 15 | 14 | 1 | 0 | 0 | ██████████████████░░ 93% | 2026-04-20 |
 | ✅ | [security-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/security-improvements) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
 | ✅ | [security-tools](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/security-tools) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
