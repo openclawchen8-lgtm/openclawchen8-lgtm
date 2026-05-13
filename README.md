@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-13 22:59 · 自動生成
+> 最後更新: 2026-05-14 01:01 · 自動生成
 
 ---
 
@@ -9,21 +9,22 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 49 |
-| 任務總數 | 352 |
+| 任務總數 | 353 |
 | ✅ 已完成 | 332 |
 | ⬜ 待處理 | 11 |
-| 🔄 進行中 | 2 |
+| 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 7 |
-| 總完成率 | 96% |
+| 總完成率 | 95% |
 
 ## 🔥 待處理高優先級任務
 
 | 專案 | 任務 | 標題 |
 |------|------|------|
 | Javis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 |
-| Javis | [T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md) | Hugging Face 圖像生成技能 |
-| Javis | [T042-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-uniTalker-MNN.md) | UniTalker-MNN 數位人整合 |
-| Javis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md) | KlingAI LivePortrait 數位人整合 |
+| Javis | [T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md) | T040-hf-image-generation |
+| Javis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md) | 3D 數位人整合（Three.js + MP4 過渡方案） |
+| Javis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md) | 數位人系統整合 |
+| Javis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md) | MNN-LivePortrait 數位人整合 |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 
 ---
@@ -36,9 +37,9 @@
 | Javis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 | ⬜ |
 | Javis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | ⬜ |
 | Javis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | ⬜ |
-| Javis | [T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md) | Hugging Face 圖像生成技能 | ⬜ |
-| Javis | [T042-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-uniTalker-MNN.md) | UniTalker-MNN 數位人整合 | ⬜ |
-| Javis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md) | KlingAI LivePortrait 數位人整合 | ⬜ |
+| Javis | [T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md) | T040-hf-image-generation | ⬜ |
+| Javis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md) | 數位人系統整合 | ⬜ |
+| Javis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md) | MNN-LivePortrait 數位人整合 | ⬜ |
 | gold-analysis-advanced | [T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T002.md) | ML 模型整合與優化 | ⬜ |
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 | ⬜ |
@@ -49,6 +50,7 @@
 
 | 專案 | 任務 | 標題 | 狀態 |
 |------|------|------|------|
+| Javis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md) | 3D 數位人整合（Three.js + MP4 過渡方案） | 🔄 |
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
 | md-viewer-app | [T026-專注模式](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T026-專注模式.md) | [T026] 專注模式（Focus Mode） | 🔄 |
 
@@ -70,8 +72,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 88 |
-| 過去 30 天完成 | 233 |
+| 過去 7 天完成 | 87 |
+| 過去 30 天完成 | 230 |
 | 平均週期時間 | 0.9 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -79,22 +81,23 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["04-30", "05-01", "05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13"]
+    x-axis ["05-01", "05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14"]
     y-axis "完成數" 0 --> 37
-    line [0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 37]
+    line [8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 37, 0]
 ```
 
-📊 總計: 96 | 日均: 6.9 | 本週: 87 | 📈 成長中
+📊 總計: 96 | 日均: 6.9 | 本週: 59 | 📈 成長中
 
 ## 📋 專案列表
 
 | 狀態 | 專案 | 總數 | ✅ | ⬜ | 🔄 | ⏭️ | 進度 | 更新 |
 |------|------|------|----|----|----|----|------|------|
-| ⬜ | [Javis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/Javis) | 43 | 37 | 6 | 0 | 0 | █████████████████░░░ 86% | 2026-05-13 |
+| 🔄 | [Javis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/Javis) | 44 | 37 | 6 | 1 | 0 | ████████████████░░░░ 84% | 2026-05-14 |
   **[T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md)**: T002-安裝MNN-LLM與下載Qwen模型
-  **[T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md)**: Hugging Face 圖像生成技能
-  **[T042-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-uniTalker-MNN.md)**: UniTalker-MNN 數位人整合
-  **[T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md)**: KlingAI LivePortrait 數位人整合
+  **[T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md)**: T040-hf-image-generation
+  **[T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md)**: 3D 數位人整合（Three.js + MP4 過渡方案）
+  **[T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md)**: 數位人系統整合
+  **[T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md)**: MNN-LivePortrait 數位人整合
 | ✅ | [agent-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/agent-config) | 9 | 9 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
 | ✅ | [backup-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/backup-system) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-15 |
 | ✅ | [claw-sessions-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/claw-sessions-issue) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
