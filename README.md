@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-13 20:22 · 自動生成
+> 最後更新: 2026-05-13 22:13 · 自動生成
 
 ---
 
@@ -10,20 +10,17 @@
 |------|------|
 | 專案數 | 49 |
 | 任務總數 | 348 |
-| ✅ 已完成 | 318 |
-| ⬜ 待處理 | 21 |
+| ✅ 已完成 | 331 |
+| ⬜ 待處理 | 8 |
 | 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 7 |
-| 總完成率 | 93% |
+| 總完成率 | 97% |
 
 ## 🔥 待處理高優先級任務
 
 | 專案 | 任務 | 標題 |
 |------|------|------|
 | Javis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 |
-| Javis | [T028-fix-cors-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T028-fix-cors-config.md) | T028-fix-cors-config |
-| Javis | [T030-fix-brain-model-path-inconsistency](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T030-fix-brain-model-path-inconsistency.md) | T030-fix-brain-model-path-inconsistency |
-| Javis | [T039-security-hardening](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T039-security-hardening.md) | T039-security-hardening |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 
 ---
@@ -36,19 +33,6 @@
 | Javis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 | ⬜ |
 | Javis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | ⬜ |
 | Javis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | ⬜ |
-| Javis | [T023-jitsi-chat-bridge](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T023-jitsi-chat-bridge.md) | Jitsi 聊天室串接 | ⬜ |
-| Javis | [T028-fix-cors-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T028-fix-cors-config.md) | T028-fix-cors-config | ⬜ |
-| Javis | [T029-remove-duplicate-json-import](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T029-remove-duplicate-json-import.md) | T029-remove-duplicate-json-import | ⬜ |
-| Javis | [T030-fix-brain-model-path-inconsistency](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T030-fix-brain-model-path-inconsistency.md) | T030-fix-brain-model-path-inconsistency | ⬜ |
-| Javis | [T031-remove-silent-exception-swallowing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T031-remove-silent-exception-swallowing.md) | T031-remove-silent-exception-swallowing | ⬜ |
-| Javis | [T032-fix-traceback-logging](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T032-fix-traceback-logging.md) | T032-fix-traceback-logging | ⬜ |
-| Javis | [T033-fix-wav-header-corruption](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T033-fix-wav-header-corruption.md) | T033-fix-wav-header-corruption | ⬜ |
-| Javis | [T034-add-rate-limiting](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T034-add-rate-limiting.md) | T034-add-rate-limiting | ⬜ |
-| Javis | [T035-unify-error-response-format](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T035-unify-error-response-format.md) | T035-unify-error-response-format | ⬜ |
-| Javis | [T036-fix-typo-in-docstring](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T036-fix-typo-in-docstring.md) | T036-fix-typo-in-docstring | ⬜ |
-| Javis | [T037-add-websocket-timeout](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T037-add-websocket-timeout.md) | T037-add-websocket-timeout | ⬜ |
-| Javis | [T038-make-get-pipeline-thread-safe](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T038-make-get-pipeline-thread-safe.md) | T038-make-get-pipeline-thread-safe | ⬜ |
-| Javis | [T039-security-hardening](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T039-security-hardening.md) | T039-security-hardening | ⬜ |
 | gold-analysis-advanced | [T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T002.md) | ML 模型整合與優化 | ⬜ |
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 | ⬜ |
@@ -80,9 +64,9 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 74 |
-| 過去 30 天完成 | 219 |
-| 平均週期時間 | 1.0 天 |
+| 過去 7 天完成 | 87 |
+| 過去 30 天完成 | 232 |
+| 平均週期時間 | 0.9 天 |
 | 週期時間中位數 | 0.0 天 |
 
 
@@ -90,21 +74,18 @@
 xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["04-30", "05-01", "05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13"]
-    y-axis "完成數" 0 --> 28
-    line [0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 23]
+    y-axis "完成數" 0 --> 36
+    line [0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 36]
 ```
 
-📊 總計: 82 | 日均: 5.9 | 本週: 73 | 📈 成長中
+📊 總計: 95 | 日均: 6.8 | 本週: 86 | 📈 成長中
 
 ## 📋 專案列表
 
 | 狀態 | 專案 | 總數 | ✅ | ⬜ | 🔄 | ⏭️ | 進度 | 更新 |
 |------|------|------|----|----|----|----|------|------|
-| ⬜ | [Javis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/Javis) | 39 | 23 | 16 | 0 | 0 | ███████████░░░░░░░░░ 58% | 2026-05-13 |
+| ⬜ | [Javis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/Javis) | 39 | 36 | 3 | 0 | 0 | ██████████████████░░ 92% | 2026-05-13 |
   **[T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md)**: T002-安裝MNN-LLM與下載Qwen模型
-  **[T028-fix-cors-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T028-fix-cors-config.md)**: T028-fix-cors-config
-  **[T030-fix-brain-model-path-inconsistency](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T030-fix-brain-model-path-inconsistency.md)**: T030-fix-brain-model-path-inconsistency
-  **[T039-security-hardening](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T039-security-hardening.md)**: T039-security-hardening
 | ✅ | [agent-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/agent-config) | 9 | 9 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
 | ✅ | [backup-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/backup-system) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-15 |
 | ✅ | [claw-sessions-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/claw-sessions-issue) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
