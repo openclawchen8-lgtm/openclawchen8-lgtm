@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-13 14:36 · 自動生成
+> 最後更新: 2026-05-13 16:05 · 自動生成
 
 ---
 
@@ -9,27 +9,18 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 49 |
-| 任務總數 | 326 |
-| ✅ 已完成 | 297 |
-| ⬜ 待處理 | 20 |
+| 任務總數 | 329 |
+| ✅ 已完成 | 314 |
+| ⬜ 待處理 | 6 |
 | 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 7 |
-| 總完成率 | 93% |
+| 總完成率 | 97% |
 
 ## 🔥 待處理高優先級任務
 
 | 專案 | 任務 | 標題 |
 |------|------|------|
 | Javis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 |
-| Javis | [T003-backend-pipeline-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T003-backend-pipeline-integration.md) | T003-後端流水線整合 |
-| Javis | [T004-whisper-cpp-asr-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T004-whisper-cpp-asr-integration.md) | T004-Whisper.cpp 語音轉文字整合 |
-| Javis | [T006-lip-sync-test-memory-optimization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T006-lip-sync-test-memory-optimization.md) | T006-口型同步測試與記憶體優化驗證 |
-| Javis | [T007-full-integration-test](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T007-full-integration-test.md) | T007-全流程整合測試 |
-| Javis | [T008-mnn-response-acceleration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T008-mnn-response-acceleration.md) | T008-MNN 模型回應加速 |
-| Javis | [T009-vision-language-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T009-vision-language-integration.md) | T009-Vision-Language模組整合 |
-| Javis | [T010-documentation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T010-documentation.md) | T010-文件補寫 |
-| Javis | [T012-mnn-metal-backend](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T012-mnn-metal-backend.md) | MNN Metal 後端啟用與版本更新 |
-| Javis | [T013-tts-pipeline-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T013-tts-pipeline-integration.md) | TTS Pipeline 接入 |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 
 ---
@@ -40,20 +31,6 @@
 | 專案 | 任務 | 標題 | 狀態 |
 |------|------|------|------|
 | Javis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 | ⬜ |
-| Javis | [T003-backend-pipeline-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T003-backend-pipeline-integration.md) | T003-後端流水線整合 | ⬜ |
-| Javis | [T004-whisper-cpp-asr-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T004-whisper-cpp-asr-integration.md) | T004-Whisper.cpp 語音轉文字整合 | ⬜ |
-| Javis | [T006-lip-sync-test-memory-optimization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T006-lip-sync-test-memory-optimization.md) | T006-口型同步測試與記憶體優化驗證 | ⬜ |
-| Javis | [T007-full-integration-test](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T007-full-integration-test.md) | T007-全流程整合測試 | ⬜ |
-| Javis | [T008-mnn-response-acceleration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T008-mnn-response-acceleration.md) | T008-MNN 模型回應加速 | ⬜ |
-| Javis | [T009-vision-language-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T009-vision-language-integration.md) | T009-Vision-Language模組整合 | ⬜ |
-| Javis | [T010-documentation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T010-documentation.md) | T010-文件補寫 | ⬜ |
-| Javis | [T011-acceleration-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T011-acceleration-research.md) | T011-加速方案調研 | ⬜ |
-| Javis | [T012-mnn-metal-backend](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T012-mnn-metal-backend.md) | MNN Metal 後端啟用與版本更新 | ⬜ |
-| Javis | [T013-tts-pipeline-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T013-tts-pipeline-integration.md) | TTS Pipeline 接入 | ⬜ |
-| Javis | [T014-whispercpp-upgrade](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T014-whispercpp-upgrade.md) | Whisper.cpp 升級與 Flash Attention 啟用 | ⬜ |
-| Javis | [T015-mnn-memory-optimization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T015-mnn-memory-optimization.md) | MNN 記憶體與推理效能優化 | ⬜ |
-| Javis | [T016-digital-human-live-talking-eval](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T016-digital-human-live-talking-eval.md) | 評估 LiveTalking 數位人口型同步方案（Mac M2） | ⬜ |
-| Javis | [T017-vision-language-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T017-vision-language-integration.md) | Vision-Language 模組整合 | ⬜ |
 | gold-analysis-advanced | [T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T002.md) | ML 模型整合與優化 | ⬜ |
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 | ⬜ |
@@ -85,8 +62,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 53 |
-| 過去 30 天完成 | 198 |
+| 過去 7 天完成 | 70 |
+| 過去 30 天完成 | 215 |
 | 平均週期時間 | 1.0 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -96,26 +73,17 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["04-30", "05-01", "05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13"]
     y-axis "完成數" 0 --> 28
-    line [0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 2]
+    line [0, 8, 0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 19]
 ```
 
-📊 總計: 61 | 日均: 4.4 | 本週: 52 | 📈 成長中
+📊 總計: 78 | 日均: 5.6 | 本週: 69 | 📈 成長中
 
 ## 📋 專案列表
 
 | 狀態 | 專案 | 總數 | ✅ | ⬜ | 🔄 | ⏭️ | 進度 | 更新 |
 |------|------|------|----|----|----|----|------|------|
-| ⬜ | [Javis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/Javis) | 17 | 2 | 15 | 0 | 0 | ██░░░░░░░░░░░░░░░░░░ 11% | 2026-05-13 |
+| ⬜ | [Javis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/Javis) | 20 | 19 | 1 | 0 | 0 | ███████████████████░ 95% | 2026-05-13 |
   **[T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md)**: T002-安裝MNN-LLM與下載Qwen模型
-  **[T003-backend-pipeline-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T003-backend-pipeline-integration.md)**: T003-後端流水線整合
-  **[T004-whisper-cpp-asr-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T004-whisper-cpp-asr-integration.md)**: T004-Whisper.cpp 語音轉文字整合
-  **[T006-lip-sync-test-memory-optimization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T006-lip-sync-test-memory-optimization.md)**: T006-口型同步測試與記憶體優化驗證
-  **[T007-full-integration-test](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T007-full-integration-test.md)**: T007-全流程整合測試
-  **[T008-mnn-response-acceleration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T008-mnn-response-acceleration.md)**: T008-MNN 模型回應加速
-  **[T009-vision-language-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T009-vision-language-integration.md)**: T009-Vision-Language模組整合
-  **[T010-documentation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T010-documentation.md)**: T010-文件補寫
-  **[T012-mnn-metal-backend](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T012-mnn-metal-backend.md)**: MNN Metal 後端啟用與版本更新
-  **[T013-tts-pipeline-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T013-tts-pipeline-integration.md)**: TTS Pipeline 接入
 | ✅ | [agent-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/agent-config) | 9 | 9 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
 | ✅ | [backup-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/backup-system) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-15 |
 | ✅ | [claw-sessions-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/claw-sessions-issue) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
