@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-15 07:51 · 自動生成
+> 最後更新: 2026-05-15 08:01 · 自動生成
 
 ---
 
@@ -22,29 +22,29 @@
 |------|------|------|
 | Javis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 |
 | Javis | [T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md) | T040-hf-image-generation |
-| Javis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md) | 3D 數位人整合（Three.js + MP4 過渡方案） |
-| Javis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md) | 數位人系統整合 |
-| Javis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md) | MNN-LivePortrait 數位人整合 |
-| TaoLive-iOS | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T08-analyze-dependencies.md) | T08 - 分析第三方依賴 |
-| TaoLive-iOS | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T09-prepare-dev-environment.md) | T09 - 準備開發環境 |
-| TaoLive-iOS | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T12-setup-mnn-ios.md) | T12 - MNN iOS SDK 整合 |
-| TaoLive-iOS | [T21-sherpa-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T21-sherpa-mnn-ios.md) | T21 - Sherpa MNN iOS 整合 |
-| TaoLive-iOS | [T23-kokoro-tts-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T23-kokoro-tts-ios.md) | T23 - Kokoro TTS iOS 整合 |
-| TaoLive-iOS | [T28-lip-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T28-lip-sync.md) | T28 - 口型同步整合 |
-| TaoLive-iOS | [T31-sceneKit-renderer](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T31-sceneKit-renderer.md) | T31 - SceneKit 渲染器實現 |
-| TaoLive-iOS | [T32-metal-shaders](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T32-metal-shaders.md) | T32 - Metal 著色器開發 |
-| TaoLive-iOS | [T33-pbr-materials](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T33-pbr-materials.md) | T33 - PBR 材質系統 |
-| TaoLive-iOS | [T34-skin-rendering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T34-skin-rendering.md) | T34 - 皮膚渲染優化 |
-| TaoLive-iOS | [T37-lighting-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T37-lighting-system.md) | T37 - 光照系統 |
-| TaoLive-iOS | [T45-model-compression](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T45-model-compression.md) | T45 - 模型壓縮 |
-| TaoLive-iOS | [T47-offline-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T47-offline-mode.md) | T47 - 完整離線模式 |
-| TaoLive-iOS | [T49-error-handling](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T49-error-handling.md) | T49 - 錯誤處理與恢復 |
-| TaoLive-iOS | [T51-test-framework](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T51-test-framework.md) | T51 - 測試框架建置 |
-| TaoLive-iOS | [T52-ci-cd](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T52-ci-cd.md) | T52 - CI/CD 流程 |
-| TaoLive-iOS | [T54-release-candidate](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T54-release-candidate.md) | T54 - 發布候選版本 |
-| TaoLive-iOS | [T55-beta-release](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T55-beta-release.md) | T55 - Beta 發布 |
-| TaoLive-iOS | [T57-privacy-policy](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T57-privacy-policy.md) | T57 - 隱私權政策 |
-| TaoLive-iOS | [T63-appstore-submit](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T63-appstore-submit.md) | T63 - App Store 提交 |
+| Javis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic |
+| Javis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait |
+| Javis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN |
+| TaoLive-iOS | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T08-analyze-dependencies.md) | T08-analyze-dependencies |
+| TaoLive-iOS | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T09-prepare-dev-environment.md) | T09-prepare-dev-environment |
+| TaoLive-iOS | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T12-setup-mnn-ios.md) | T12-setup-mnn-ios |
+| TaoLive-iOS | [T21-sherpa-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T21-sherpa-mnn-ios.md) | T21-sherpa-mnn-ios |
+| TaoLive-iOS | [T23-kokoro-tts-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T23-kokoro-tts-ios.md) | T23-kokoro-tts-ios |
+| TaoLive-iOS | [T28-lip-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T28-lip-sync.md) | T28-lip-sync |
+| TaoLive-iOS | [T31-sceneKit-renderer](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T31-sceneKit-renderer.md) | T31-sceneKit-renderer |
+| TaoLive-iOS | [T32-metal-shaders](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T32-metal-shaders.md) | T32-metal-shaders |
+| TaoLive-iOS | [T33-pbr-materials](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T33-pbr-materials.md) | T33-pbr-materials |
+| TaoLive-iOS | [T34-skin-rendering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T34-skin-rendering.md) | T34-skin-rendering |
+| TaoLive-iOS | [T37-lighting-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T37-lighting-system.md) | T37-lighting-system |
+| TaoLive-iOS | [T45-model-compression](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T45-model-compression.md) | T45-model-compression |
+| TaoLive-iOS | [T47-offline-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T47-offline-mode.md) | T47-offline-mode |
+| TaoLive-iOS | [T49-error-handling](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T49-error-handling.md) | T49-error-handling |
+| TaoLive-iOS | [T51-test-framework](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T51-test-framework.md) | T51-test-framework |
+| TaoLive-iOS | [T52-ci-cd](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T52-ci-cd.md) | T52-ci-cd |
+| TaoLive-iOS | [T54-release-candidate](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T54-release-candidate.md) | T54-release-candidate |
+| TaoLive-iOS | [T55-beta-release](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T55-beta-release.md) | T55-beta-release |
+| TaoLive-iOS | [T57-privacy-policy](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T57-privacy-policy.md) | T57-privacy-policy |
+| TaoLive-iOS | [T63-appstore-submit](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T63-appstore-submit.md) | T63-appstore-submit |
 | TaoLive-iOS | [T64-refactor-a2bs-api](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T64-refactor-a2bs-api.md) | 重構 A2BS 原始碼以適應新版 MNN API |
 | TaoLive-iOS | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 |
 | TaoLive-iOS | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 |
@@ -65,53 +65,53 @@
 | Javis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | ⬜ |
 | Javis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | ⬜ |
 | Javis | [T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md) | T040-hf-image-generation | ⬜ |
-| Javis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md) | 數位人系統整合 | ⬜ |
-| Javis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md) | MNN-LivePortrait 數位人整合 | ⬜ |
-| Javis | [T045-digital-human-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T045-digital-human-research.md) | 數位人方案研究（HeyGen/D-ID付費 vs 開源自部署） | ⬜ |
-| TaoLive-iOS | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T08-analyze-dependencies.md) | T08 - 分析第三方依賴 | ⬜ |
-| TaoLive-iOS | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T09-prepare-dev-environment.md) | T09 - 準備開發環境 | ⬜ |
-| TaoLive-iOS | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T12-setup-mnn-ios.md) | T12 - MNN iOS SDK 整合 | ⬜ |
-| TaoLive-iOS | [T16-ios-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T16-ios-capture.md) | T16 - iOS 音影片擷取 | ⬜ |
-| TaoLive-iOS | [T17-avfoundation-video](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T17-avfoundation-video.md) | T17 - AVFoundation 影片播放 | ⬜ |
-| TaoLive-iOS | [T18-coreml-audio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T18-coreml-audio.md) | T18 - CoreML 音頻處理 | ⬜ |
-| TaoLive-iOS | [T19-sherpa-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T19-sherpa-integration.md) | T19 - Sherpa-Onnx ASR 整合 | ⬜ |
-| TaoLive-iOS | [T21-sherpa-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T21-sherpa-mnn-ios.md) | T21 - Sherpa MNN iOS 整合 | ⬜ |
-| TaoLive-iOS | [T22-ios-pipeline](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T22-ios-pipeline.md) | T22 - 建立 iOS 處理管線 | ⬜ |
-| TaoLive-iOS | [T23-kokoro-tts-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T23-kokoro-tts-ios.md) | T23 - Kokoro TTS iOS 整合 | ⬜ |
-| TaoLive-iOS | [T24-gesture-control](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T24-gesture-control.md) | T24 - 手勢辨識整合 | ⬜ |
-| TaoLive-iOS | [T25-face-tracking](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T25-face-tracking.md) | T25 - 臉部追蹤整合 | ⬜ |
-| TaoLive-iOS | [T26-body-tracking](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T26-body-tracking.md) | T26 - 身體追蹤整合 | ⬜ |
-| TaoLive-iOS | [T27-emotion-recognition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T27-emotion-recognition.md) | T27 - 情緒辨識整合 | ⬜ |
-| TaoLive-iOS | [T28-lip-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T28-lip-sync.md) | T28 - 口型同步整合 | ⬜ |
-| TaoLive-iOS | [T29-eye-tracking](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T29-eye-tracking.md) | T29 - 眼神追蹤整合 | ⬜ |
-| TaoLive-iOS | [T31-sceneKit-renderer](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T31-sceneKit-renderer.md) | T31 - SceneKit 渲染器實現 | ⬜ |
-| TaoLive-iOS | [T32-metal-shaders](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T32-metal-shaders.md) | T32 - Metal 著色器開發 | ⬜ |
-| TaoLive-iOS | [T33-pbr-materials](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T33-pbr-materials.md) | T33 - PBR 材質系統 | ⬜ |
-| TaoLive-iOS | [T34-skin-rendering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T34-skin-rendering.md) | T34 - 皮膚渲染優化 | ⬜ |
-| TaoLive-iOS | [T35-hair-rendering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T35-hair-rendering.md) | T35 - 頭髮渲染 | ⬜ |
-| TaoLive-iOS | [T36-clothing-simulation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T36-clothing-simulation.md) | T36 - 衣物模擬 | ⬜ |
-| TaoLive-iOS | [T37-lighting-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T37-lighting-system.md) | T37 - 光照系統 | ⬜ |
-| TaoLive-iOS | [T38-camera-controller](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T38-camera-controller.md) | T38 - 相機控制器 | ⬜ |
-| TaoLive-iOS | [T39-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T39-environment.md) | T39 - 環境場景 | ⬜ |
-| TaoLive-iOS | [T45-model-compression](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T45-model-compression.md) | T45 - 模型壓縮 | ⬜ |
-| TaoLive-iOS | [T46-offline-cache](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T46-offline-cache.md) | T46 - 離線緩存策略 | ⬜ |
-| TaoLive-iOS | [T47-offline-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T47-offline-mode.md) | T47 - 完整離線模式 | ⬜ |
-| TaoLive-iOS | [T48-network-optimization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T48-network-optimization.md) | T48 - 網路傳輸優化 | ⬜ |
-| TaoLive-iOS | [T49-error-handling](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T49-error-handling.md) | T49 - 錯誤處理與恢復 | ⬜ |
-| TaoLive-iOS | [T50-internationalization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T50-internationalization.md) | T50 - 國際化與本地化 | ⬜ |
-| TaoLive-iOS | [T51-test-framework](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T51-test-framework.md) | T51 - 測試框架建置 | ⬜ |
-| TaoLive-iOS | [T52-ci-cd](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T52-ci-cd.md) | T52 - CI/CD 流程 | ⬜ |
-| TaoLive-iOS | [T53-internal-testing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T53-internal-testing.md) | T53 - 內部測試 | ⬜ |
-| TaoLive-iOS | [T54-release-candidate](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T54-release-candidate.md) | T54 - 發布候選版本 | ⬜ |
-| TaoLive-iOS | [T55-beta-release](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T55-beta-release.md) | T55 - Beta 發布 | ⬜ |
-| TaoLive-iOS | [T56-analytics](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T56-analytics.md) | T56 - 分析與監控 | ⬜ |
-| TaoLive-iOS | [T57-privacy-policy](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T57-privacy-policy.md) | T57 - 隱私權政策 | ⬜ |
-| TaoLive-iOS | [T58-in-app-purchase](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T58-in-app-purchase.md) | T58 - 內購整合 | ⬜ |
-| TaoLive-iOS | [T59-user-profile](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T59-user-profile.md) | T59 - 用戶個人檔案 | ⬜ |
-| TaoLive-iOS | [T60-social-sharing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T60-social-sharing.md) | T60 - 社群分享 | ⬜ |
-| TaoLive-iOS | [T61-cloud-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T61-cloud-sync.md) | T61 - 雲端同步 | ⬜ |
-| TaoLive-iOS | [T62-documentation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T62-documentation.md) | T62 - 文檔與教學 | ⬜ |
-| TaoLive-iOS | [T63-appstore-submit](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T63-appstore-submit.md) | T63 - App Store 提交 | ⬜ |
+| Javis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | ⬜ |
+| Javis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN | ⬜ |
+| Javis | [T045-digital-human-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T045-digital-human-research.md) | T045-digital-human-research | ⬜ |
+| TaoLive-iOS | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T08-analyze-dependencies.md) | T08-analyze-dependencies | ⬜ |
+| TaoLive-iOS | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T09-prepare-dev-environment.md) | T09-prepare-dev-environment | ⬜ |
+| TaoLive-iOS | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T12-setup-mnn-ios.md) | T12-setup-mnn-ios | ⬜ |
+| TaoLive-iOS | [T16-ios-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T16-ios-capture.md) | T16-ios-capture | ⬜ |
+| TaoLive-iOS | [T17-avfoundation-video](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T17-avfoundation-video.md) | T17-avfoundation-video | ⬜ |
+| TaoLive-iOS | [T18-coreml-audio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T18-coreml-audio.md) | T18-coreml-audio | ⬜ |
+| TaoLive-iOS | [T19-sherpa-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T19-sherpa-integration.md) | T19-sherpa-integration | ⬜ |
+| TaoLive-iOS | [T21-sherpa-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T21-sherpa-mnn-ios.md) | T21-sherpa-mnn-ios | ⬜ |
+| TaoLive-iOS | [T22-ios-pipeline](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T22-ios-pipeline.md) | T22-ios-pipeline | ⬜ |
+| TaoLive-iOS | [T23-kokoro-tts-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T23-kokoro-tts-ios.md) | T23-kokoro-tts-ios | ⬜ |
+| TaoLive-iOS | [T24-gesture-control](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T24-gesture-control.md) | T24-gesture-control | ⬜ |
+| TaoLive-iOS | [T25-face-tracking](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T25-face-tracking.md) | T25-face-tracking | ⬜ |
+| TaoLive-iOS | [T26-body-tracking](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T26-body-tracking.md) | T26-body-tracking | ⬜ |
+| TaoLive-iOS | [T27-emotion-recognition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T27-emotion-recognition.md) | T27-emotion-recognition | ⬜ |
+| TaoLive-iOS | [T28-lip-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T28-lip-sync.md) | T28-lip-sync | ⬜ |
+| TaoLive-iOS | [T29-eye-tracking](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T29-eye-tracking.md) | T29-eye-tracking | ⬜ |
+| TaoLive-iOS | [T31-sceneKit-renderer](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T31-sceneKit-renderer.md) | T31-sceneKit-renderer | ⬜ |
+| TaoLive-iOS | [T32-metal-shaders](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T32-metal-shaders.md) | T32-metal-shaders | ⬜ |
+| TaoLive-iOS | [T33-pbr-materials](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T33-pbr-materials.md) | T33-pbr-materials | ⬜ |
+| TaoLive-iOS | [T34-skin-rendering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T34-skin-rendering.md) | T34-skin-rendering | ⬜ |
+| TaoLive-iOS | [T35-hair-rendering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T35-hair-rendering.md) | T35-hair-rendering | ⬜ |
+| TaoLive-iOS | [T36-clothing-simulation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T36-clothing-simulation.md) | T36-clothing-simulation | ⬜ |
+| TaoLive-iOS | [T37-lighting-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T37-lighting-system.md) | T37-lighting-system | ⬜ |
+| TaoLive-iOS | [T38-camera-controller](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T38-camera-controller.md) | T38-camera-controller | ⬜ |
+| TaoLive-iOS | [T39-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T39-environment.md) | T39-environment | ⬜ |
+| TaoLive-iOS | [T45-model-compression](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T45-model-compression.md) | T45-model-compression | ⬜ |
+| TaoLive-iOS | [T46-offline-cache](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T46-offline-cache.md) | T46-offline-cache | ⬜ |
+| TaoLive-iOS | [T47-offline-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T47-offline-mode.md) | T47-offline-mode | ⬜ |
+| TaoLive-iOS | [T48-network-optimization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T48-network-optimization.md) | T48-network-optimization | ⬜ |
+| TaoLive-iOS | [T49-error-handling](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T49-error-handling.md) | T49-error-handling | ⬜ |
+| TaoLive-iOS | [T50-internationalization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T50-internationalization.md) | T50-internationalization | ⬜ |
+| TaoLive-iOS | [T51-test-framework](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T51-test-framework.md) | T51-test-framework | ⬜ |
+| TaoLive-iOS | [T52-ci-cd](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T52-ci-cd.md) | T52-ci-cd | ⬜ |
+| TaoLive-iOS | [T53-internal-testing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T53-internal-testing.md) | T53-internal-testing | ⬜ |
+| TaoLive-iOS | [T54-release-candidate](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T54-release-candidate.md) | T54-release-candidate | ⬜ |
+| TaoLive-iOS | [T55-beta-release](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T55-beta-release.md) | T55-beta-release | ⬜ |
+| TaoLive-iOS | [T56-analytics](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T56-analytics.md) | T56-analytics | ⬜ |
+| TaoLive-iOS | [T57-privacy-policy](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T57-privacy-policy.md) | T57-privacy-policy | ⬜ |
+| TaoLive-iOS | [T58-in-app-purchase](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T58-in-app-purchase.md) | T58-in-app-purchase | ⬜ |
+| TaoLive-iOS | [T59-user-profile](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T59-user-profile.md) | T59-user-profile | ⬜ |
+| TaoLive-iOS | [T60-social-sharing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T60-social-sharing.md) | T60-social-sharing | ⬜ |
+| TaoLive-iOS | [T61-cloud-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T61-cloud-sync.md) | T61-cloud-sync | ⬜ |
+| TaoLive-iOS | [T62-documentation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T62-documentation.md) | T62-documentation | ⬜ |
+| TaoLive-iOS | [T63-appstore-submit](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T63-appstore-submit.md) | T63-appstore-submit | ⬜ |
 | TaoLive-iOS | [T64-refactor-a2bs-api](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T64-refactor-a2bs-api.md) | 重構 A2BS 原始碼以適應新版 MNN API | ⬜ |
 | TaoLive-iOS | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 | ⬜ |
 | TaoLive-iOS | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 | ⬜ |
@@ -128,7 +128,7 @@
 
 | 專案 | 任務 | 標題 | 狀態 |
 |------|------|------|------|
-| Javis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md) | 3D 數位人整合（Three.js + MP4 過渡方案） | 🔄 |
+| Javis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic | 🔄 |
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
 | md-viewer-app | [T026-專注模式](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T026-專注模式.md) | [T026] 專注模式（Focus Mode） | 🔄 |
 | mindnav-codeagent | [T001-env-setup](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T001-env-setup.md) | T001 - 環境建置與本地模型部署 (Ollama & LLM) | 🔄 |
@@ -176,30 +176,30 @@ xychart-beta
 | 🔄 | [Javis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/Javis) | 45 | 37 | 7 | 1 | 0 | ████████████████░░░░ 82% | 2026-05-14 |
   **[T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T002-install-mnn-llm-qwen.md)**: T002-安裝MNN-LLM與下載Qwen模型
   **[T040-hf-image-generation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T040-hf-image-generation.md)**: T040-hf-image-generation
-  **[T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md)**: 3D 數位人整合（Three.js + MP4 過渡方案）
-  **[T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md)**: 數位人系統整合
-  **[T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md)**: MNN-LivePortrait 數位人整合
+  **[T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md)**: T042-TANGO-EchoMimic
+  **[T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T043-KlingAI-LivePortrait.md)**: T043-KlingAI-LivePortrait
+  **[T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T044-uniTalker-MNN.md)**: T044-uniTalker-MNN
 | ⬜ | [TaoLive-iOS](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/TaoLive-iOS) | 67 | 19 | 48 | 0 | 0 | █████░░░░░░░░░░░░░░░ 28% | 2026-05-14 |
-  **[T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T08-analyze-dependencies.md)**: T08 - 分析第三方依賴
-  **[T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T09-prepare-dev-environment.md)**: T09 - 準備開發環境
-  **[T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T12-setup-mnn-ios.md)**: T12 - MNN iOS SDK 整合
-  **[T21-sherpa-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T21-sherpa-mnn-ios.md)**: T21 - Sherpa MNN iOS 整合
-  **[T23-kokoro-tts-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T23-kokoro-tts-ios.md)**: T23 - Kokoro TTS iOS 整合
-  **[T28-lip-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T28-lip-sync.md)**: T28 - 口型同步整合
-  **[T31-sceneKit-renderer](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T31-sceneKit-renderer.md)**: T31 - SceneKit 渲染器實現
-  **[T32-metal-shaders](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T32-metal-shaders.md)**: T32 - Metal 著色器開發
-  **[T33-pbr-materials](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T33-pbr-materials.md)**: T33 - PBR 材質系統
-  **[T34-skin-rendering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T34-skin-rendering.md)**: T34 - 皮膚渲染優化
-  **[T37-lighting-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T37-lighting-system.md)**: T37 - 光照系統
-  **[T45-model-compression](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T45-model-compression.md)**: T45 - 模型壓縮
-  **[T47-offline-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T47-offline-mode.md)**: T47 - 完整離線模式
-  **[T49-error-handling](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T49-error-handling.md)**: T49 - 錯誤處理與恢復
-  **[T51-test-framework](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T51-test-framework.md)**: T51 - 測試框架建置
-  **[T52-ci-cd](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T52-ci-cd.md)**: T52 - CI/CD 流程
-  **[T54-release-candidate](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T54-release-candidate.md)**: T54 - 發布候選版本
-  **[T55-beta-release](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T55-beta-release.md)**: T55 - Beta 發布
-  **[T57-privacy-policy](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T57-privacy-policy.md)**: T57 - 隱私權政策
-  **[T63-appstore-submit](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T63-appstore-submit.md)**: T63 - App Store 提交
+  **[T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T08-analyze-dependencies.md)**: T08-analyze-dependencies
+  **[T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T09-prepare-dev-environment.md)**: T09-prepare-dev-environment
+  **[T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T12-setup-mnn-ios.md)**: T12-setup-mnn-ios
+  **[T21-sherpa-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T21-sherpa-mnn-ios.md)**: T21-sherpa-mnn-ios
+  **[T23-kokoro-tts-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T23-kokoro-tts-ios.md)**: T23-kokoro-tts-ios
+  **[T28-lip-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T28-lip-sync.md)**: T28-lip-sync
+  **[T31-sceneKit-renderer](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T31-sceneKit-renderer.md)**: T31-sceneKit-renderer
+  **[T32-metal-shaders](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T32-metal-shaders.md)**: T32-metal-shaders
+  **[T33-pbr-materials](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T33-pbr-materials.md)**: T33-pbr-materials
+  **[T34-skin-rendering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T34-skin-rendering.md)**: T34-skin-rendering
+  **[T37-lighting-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T37-lighting-system.md)**: T37-lighting-system
+  **[T45-model-compression](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T45-model-compression.md)**: T45-model-compression
+  **[T47-offline-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T47-offline-mode.md)**: T47-offline-mode
+  **[T49-error-handling](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T49-error-handling.md)**: T49-error-handling
+  **[T51-test-framework](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T51-test-framework.md)**: T51-test-framework
+  **[T52-ci-cd](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T52-ci-cd.md)**: T52-ci-cd
+  **[T54-release-candidate](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T54-release-candidate.md)**: T54-release-candidate
+  **[T55-beta-release](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T55-beta-release.md)**: T55-beta-release
+  **[T57-privacy-policy](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T57-privacy-policy.md)**: T57-privacy-policy
+  **[T63-appstore-submit](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T63-appstore-submit.md)**: T63-appstore-submit
   **[T64-refactor-a2bs-api](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T64-refactor-a2bs-api.md)**: 重構 A2BS 原始碼以適應新版 MNN API
   **[T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T65-add-miniaudio.md)**: 下載並將遺失的 miniaudio 程式庫加入專案
   **[T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T66-fix-headers-build-settings.md)**: 修正標頭檔路徑並清理重複編譯設定
