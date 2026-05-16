@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-15 08:51 · 自動生成
+> 最後更新: 2026-05-16 11:24 · 自動生成
 
 ---
 
@@ -8,9 +8,9 @@
 
 | 指標 | 數量 |
 |------|------|
-| 專案數 | 51 |
-| 任務總數 | 445 |
-| ✅ 已完成 | 370 |
+| 專案數 | 53 |
+| 任務總數 | 447 |
+| ✅ 已完成 | 372 |
 | ⬜ 待處理 | 62 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 7 |
@@ -153,8 +153,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 96 |
-| 過去 30 天完成 | 267 |
+| 過去 7 天完成 | 98 |
+| 過去 30 天完成 | 260 |
 | 平均週期時間 | 0.8 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -162,12 +162,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15"]
+    x-axis ["05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16"]
     y-axis "完成數" 0 --> 37
-    line [0, 0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 37, 19, 18]
+    line [0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 37, 19, 18, 2]
 ```
 
-📊 總計: 125 | 日均: 8.9 | 本週: 96 | 📈 成長中
+📊 總計: 127 | 日均: 9.1 | 本週: 97 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -205,6 +205,7 @@ xychart-beta
   **[T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T66-fix-headers-build-settings.md)**: 修正標頭檔路徑並清理重複編譯設定
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [agent-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/agent-config) | 9 | 9 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
+| ✅ | [automation-tools](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/automation-tools) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-16 |
 | ✅ | [backup-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/backup-system) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-15 |
 | ✅ | [claw-sessions-issue](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/claw-sessions-issue) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [clawhub-oauth-investigation](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/clawhub-oauth-investigation) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
@@ -212,6 +213,7 @@ xychart-beta
 | ✅ | [cnyes-stock](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/cnyes-stock) | 16 | 16 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
 | ✅ | [dashboard-tool](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/dashboard-tool) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-09 |
 | ✅ | [elevenlabs-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/elevenlabs-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
+| ✅ | [git-maintenance](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/git-maintenance) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-16 |
 | ✅ | [github-data-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/github-data-review) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-28 |
 | ✅ | [global-policy-refactor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/global-policy-refactor) | 3 | 3 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | 🔄 | [gold-analysis-advanced](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/gold-analysis-advanced) | 4 | 1 | 2 | 1 | 0 | █████░░░░░░░░░░░░░░░ 25% | 2026-04-22 |
