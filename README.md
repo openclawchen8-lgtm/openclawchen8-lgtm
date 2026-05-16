@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-16 12:33 · 自動生成
+> 最後更新: 2026-05-16 13:14 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 53 |
-| 任務總數 | 450 |
-| ✅ 已完成 | 379 |
-| ⬜ 待處理 | 60 |
+| 任務總數 | 475 |
+| ✅ 已完成 | 394 |
+| ⬜ 待處理 | 70 |
 | 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 7 |
-| 總完成率 | 85% |
+| 總完成率 | 84% |
 
 ## 🔥 待處理高優先級任務
 
@@ -51,6 +51,8 @@
 | TaoLive-iOS | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 | mindnav-codeagent | [T001-env-setup](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T001-env-setup.md) | T001 - 環境建置與本地模型部署 (Ollama & LLM) |
+| mindnav-codeagent | [T044-integration-test-mock](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T044-integration-test-mock.md) | T044 - Integration Test Mock 補全 |
+| mindnav-codeagent | [T048-config-redundant-load](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T048-config-redundant-load.md) | T048 - Config 重複讀取優化 |
 
 ---
 
@@ -118,6 +120,16 @@
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
+| mindnav-codeagent | [T041-graph-node-split](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T041-graph-node-split.md) | T041 - Graph.py 節點拆分重構 | ⬜ |
+| mindnav-codeagent | [T043-supervisor-route-cache](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T043-supervisor-route-cache.md) | T043 - Supervisor 路由快取機制 | ⬜ |
+| mindnav-codeagent | [T044-integration-test-mock](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T044-integration-test-mock.md) | T044 - Integration Test Mock 補全 | ⬜ |
+| mindnav-codeagent | [T045-verify-all-substantive-checks](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T045-verify-all-substantive-checks.md) | T045 - verify_all.py 實質檢查補全 | ⬜ |
+| mindnav-codeagent | [T046-safeshell-git-subcommand](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T046-safeshell-git-subcommand.md) | T046 - SafeShell git 子指令過濾 | ⬜ |
+| mindnav-codeagent | [T047-api-key-security](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T047-api-key-security.md) | T047 - API Key 安全處理 | ⬜ |
+| mindnav-codeagent | [T048-config-redundant-load](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T048-config-redundant-load.md) | T048 - Config 重複讀取優化 | ⬜ |
+| mindnav-codeagent | [T049-chromadb-init-optimize](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T049-chromadb-init-optimize.md) | T049 - ChromaDB 初始化掃描優化 | ⬜ |
+| mindnav-codeagent | [T050-context-mgmt-llm-factory](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T050-context-mgmt-llm-factory.md) | T050 - ContextManager 改用 LLMFactory | ⬜ |
+| mindnav-codeagent | [T052-verify-ac-stub-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T052-verify-ac-stub-fix.md) | T052 - verify_ac.py stub 檢查補全 | ⬜ |
 | revenue-zero-cost | [T008](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/revenue-zero-cost/tasks/T008.md) | 技術社群曝光 | ⬜ |
 
 ## 🔄 進行中
@@ -147,8 +159,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 105 |
-| 過去 30 天完成 | 267 |
+| 過去 7 天完成 | 120 |
+| 過去 30 天完成 | 282 |
 | 平均週期時間 | 0.8 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -158,10 +170,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16"]
     y-axis "完成數" 0 --> 37
-    line [0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 37, 19, 22, 5]
+    line [0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 37, 19, 22, 20]
 ```
 
-📊 總計: 134 | 日均: 9.6 | 本週: 104 | 📈 成長中
+📊 總計: 149 | 日均: 10.6 | 本週: 119 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -232,8 +244,10 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 27 | 26 | 0 | 1 | 0 | ███████████████████░ 96% | 2026-05-16 |
+| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 52 | 41 | 10 | 1 | 0 | ███████████████░░░░░ 78% | 2026-05-16 |
   **[T001-env-setup](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T001-env-setup.md)**: T001 - 環境建置與本地模型部署 (Ollama & LLM)
+  **[T044-integration-test-mock](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T044-integration-test-mock.md)**: T044 - Integration Test Mock 補全
+  **[T048-config-redundant-load](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T048-config-redundant-load.md)**: T048 - Config 重複讀取優化
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
