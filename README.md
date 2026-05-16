@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-16 11:24 · 自動生成
+> 最後更新: 2026-05-16 12:33 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 53 |
-| 任務總數 | 447 |
-| ✅ 已完成 | 372 |
-| ⬜ 待處理 | 62 |
-| 🔄 進行中 | 6 |
+| 任務總數 | 450 |
+| ✅ 已完成 | 379 |
+| ⬜ 待處理 | 60 |
+| 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 7 |
-| 總完成率 | 84% |
+| 總完成率 | 85% |
 
 ## 🔥 待處理高優先級任務
 
@@ -51,8 +51,6 @@
 | TaoLive-iOS | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 | mindnav-codeagent | [T001-env-setup](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T001-env-setup.md) | T001 - 環境建置與本地模型部署 (Ollama & LLM) |
-| mindnav-codeagent | [T018-rag-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T018-rag-sync.md) | T018 - RAG 自動增量同步監聽器 (watchdog based) |
-| mindnav-codeagent | [T020-memory-mgmt](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T020-memory-mgmt.md) | T020 - 記憶清理與對話重置工具 (Memory Manager) |
 
 ---
 
@@ -120,8 +118,6 @@
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
-| mindnav-codeagent | [T015-modular-config](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T015-modular-config.md) | T015 - 模組化配置系統與主管代理設計 (Modular Config & Supervisor) | ⬜ |
-| mindnav-codeagent | [T020-memory-mgmt](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T020-memory-mgmt.md) | T020 - 記憶清理與對話重置工具 (Memory Manager) | ⬜ |
 | revenue-zero-cost | [T008](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/revenue-zero-cost/tasks/T008.md) | 技術社群曝光 | ⬜ |
 
 ## 🔄 進行中
@@ -132,8 +128,6 @@
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
 | md-viewer-app | [T026-專注模式](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T026-專注模式.md) | [T026] 專注模式（Focus Mode） | 🔄 |
 | mindnav-codeagent | [T001-env-setup](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T001-env-setup.md) | T001 - 環境建置與本地模型部署 (Ollama & LLM) | 🔄 |
-| mindnav-codeagent | [T012-deployment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T012-deployment.md) | T012 - 部署手冊與 Docker 配置 | 🔄 |
-| mindnav-codeagent | [T018-rag-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T018-rag-sync.md) | T018 - RAG 自動增量同步監聽器 (watchdog based) | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -153,8 +147,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 98 |
-| 過去 30 天完成 | 260 |
+| 過去 7 天完成 | 105 |
+| 過去 30 天完成 | 267 |
 | 平均週期時間 | 0.8 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -164,10 +158,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16"]
     y-axis "完成數" 0 --> 37
-    line [0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 37, 19, 18, 2]
+    line [0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 37, 19, 22, 5]
 ```
 
-📊 總計: 127 | 日均: 9.1 | 本週: 97 | 📈 成長中
+📊 總計: 134 | 日均: 9.6 | 本週: 104 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -238,10 +232,8 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 24 | 19 | 2 | 3 | 0 | ███████████████░░░░░ 79% | 2026-05-15 |
+| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 27 | 26 | 0 | 1 | 0 | ███████████████████░ 96% | 2026-05-16 |
   **[T001-env-setup](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T001-env-setup.md)**: T001 - 環境建置與本地模型部署 (Ollama & LLM)
-  **[T018-rag-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T018-rag-sync.md)**: T018 - RAG 自動增量同步監聽器 (watchdog based)
-  **[T020-memory-mgmt](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T020-memory-mgmt.md)**: T020 - 記憶清理與對話重置工具 (Memory Manager)
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
