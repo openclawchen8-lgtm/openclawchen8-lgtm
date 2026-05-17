@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-16 14:50 · 自動生成
+> 最後更新: 2026-05-17 08:33 · 自動生成
 
 ---
 
@@ -12,8 +12,8 @@
 | 任務總數 | 475 |
 | ✅ 已完成 | 406 |
 | ⬜ 待處理 | 59 |
-| 🔄 進行中 | 3 |
-| ⏭️ 跳過 | 7 |
+| 🔄 進行中 | 2 |
+| ⏭️ 跳過 | 8 |
 | 總完成率 | 86% |
 
 ## 🔥 待處理高優先級任務
@@ -123,7 +123,6 @@
 |------|------|------|------|
 | Javis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic | 🔄 |
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
-| md-viewer-app | [T026-專注模式](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T026-專注模式.md) | [T026] 專注模式（Focus Mode） | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -135,6 +134,7 @@
 | md-viewer-app | [T004-實作-側邊欄-檔案列表](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T004-實作-側邊欄-檔案列表.md) | 實作側邊欄檔案列表 | ⏭️ |
 | md-viewer-app | [T015-Quick-Look-插件](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T015-Quick-Look-插件.md) | [T015] Quick Look 插件 | ⏭️ |
 | md-viewer-app | [T018-置頂小窗模式](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T018-置頂小窗模式.md) | [T018] 置頂小窗模式 | ⏭️ |
+| md-viewer-app | [T026-專注模式](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T026-專注模式.md) | [T026] 專注模式（Focus Mode） | ⏭️ |
 | sinotrade-scraper | [T008](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/sinotrade-scraper/tasks/T008.md) | 完整報告內容讀取（需登入，暫緩） | ⏭️ |
 
 ---
@@ -143,8 +143,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 133 |
-| 過去 30 天完成 | 295 |
+| 過去 7 天完成 | 132 |
+| 過去 30 天完成 | 260 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -152,12 +152,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16"]
+    x-axis ["05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17"]
     y-axis "完成數" 0 --> 38
-    line [0, 0, 0, 1, 28, 0, 1, 2, 0, 19, 38, 19, 24, 30]
+    line [0, 0, 1, 28, 0, 1, 2, 0, 19, 38, 19, 24, 30, 0]
 ```
 
-📊 總計: 162 | 日均: 11.6 | 本週: 132 | 📈 成長中
+📊 總計: 162 | 日均: 11.6 | 本週: 130 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -222,7 +222,7 @@ xychart-beta
 | ✅ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [llm-router](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/llm-router) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
-| 🔄 | [md-viewer-app](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/md-viewer-app) | 44 | 38 | 2 | 1 | 3 | ██████████████████░░ 92% | 2026-05-12 |
+| ⬜ | [md-viewer-app](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/md-viewer-app) | 44 | 38 | 2 | 0 | 4 | ███████████████████░ 95% | 2026-05-12 |
   **[T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md)**: [T023] 滾動位置保持
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
