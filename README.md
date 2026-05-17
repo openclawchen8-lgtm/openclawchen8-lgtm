@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-17 11:13 · 自動生成
+> 最後更新: 2026-05-18 04:35 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 53 |
-| 任務總數 | 476 |
-| ✅ 已完成 | 406 |
-| ⬜ 待處理 | 59 |
+| 任務總數 | 487 |
+| ✅ 已完成 | 408 |
+| ⬜ 待處理 | 68 |
 | 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 9 |
-| 總完成率 | 86% |
+| 總完成率 | 85% |
 
 ## 🔥 待處理高優先級任務
 
@@ -50,6 +50,10 @@
 | TaoLive-iOS | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 |
 | mindnav-codeagent | [T053-worker-enqueue](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T053-worker-enqueue.md) | T053 - Coder Worker 實際 Enqueue 邏輯實作 |
+| mindnav-codeagent | [T055-auto-skill-extraction](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T055-auto-skill-extraction.md) | T055 - 任務完成後技能自動提煉 Pipeline |
+| mindnav-codeagent | [T056-skill-matching-dispatch](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T056-skill-matching-dispatch.md) | T056 - 技能相似度匹配與動態注入引擎 |
+| mindnav-codeagent | [T057-dynamic-prompt-layering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T057-dynamic-prompt-layering.md) | T057 - 動態 System Prompt 分層組裝 |
+| mindnav-codeagent | [T061-cross-agent-skill-sharing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T061-cross-agent-skill-sharing.md) | T061 - 跨 Agent 技能共用機制 |
 
 ---
 
@@ -117,6 +121,15 @@
 | md-viewer-app | [T023-滾動位置保持](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T023-滾動位置保持.md) | [T023] 滾動位置保持 | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
 | mindnav-codeagent | [T053-worker-enqueue](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T053-worker-enqueue.md) | T053 - Coder Worker 實際 Enqueue 邏輯實作 | ⬜ |
+| mindnav-codeagent | [T055-auto-skill-extraction](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T055-auto-skill-extraction.md) | T055 - 任務完成後技能自動提煉 Pipeline | ⬜ |
+| mindnav-codeagent | [T056-skill-matching-dispatch](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T056-skill-matching-dispatch.md) | T056 - 技能相似度匹配與動態注入引擎 | ⬜ |
+| mindnav-codeagent | [T057-dynamic-prompt-layering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T057-dynamic-prompt-layering.md) | T057 - 動態 System Prompt 分層組裝 | ⬜ |
+| mindnav-codeagent | [T058-skill-governance-security](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T058-skill-governance-security.md) | T058 - 技能安全門禁與版本管理 | ⬜ |
+| mindnav-codeagent | [T059-skill-self-improvement-loop](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T059-skill-self-improvement-loop.md) | T059 - 技能自動優化迴路 | ⬜ |
+| mindnav-codeagent | [T061-cross-agent-skill-sharing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T061-cross-agent-skill-sharing.md) | T061 - 跨 Agent 技能共用機制 | ⬜ |
+| mindnav-codeagent | [T062-skill-regression-detection](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T062-skill-regression-detection.md) | T062 - 技能退化偵測 | ⬜ |
+| mindnav-codeagent | [T063-user-feedback-loop](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T063-user-feedback-loop.md) | T063 - 人工 Feedback 迴路 | ⬜ |
+| mindnav-codeagent | [T064-nudge-heartbeat-maintenance](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T064-nudge-heartbeat-maintenance.md) | T064 - Nudge / Heartbeat 記憶維護 | ⬜ |
 
 ## 🔄 進行中
 
@@ -146,7 +159,7 @@
 | 指標 | 數值 |
 |------|------|
 | 過去 7 天完成 | 132 |
-| 過去 30 天完成 | 260 |
+| 過去 30 天完成 | 256 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -154,12 +167,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17"]
+    x-axis ["05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18"]
     y-axis "完成數" 0 --> 38
-    line [0, 0, 1, 28, 0, 1, 2, 0, 19, 38, 19, 24, 30, 0]
+    line [0, 1, 28, 0, 1, 2, 0, 19, 38, 19, 24, 30, 0, 2]
 ```
 
-📊 總計: 162 | 日均: 11.6 | 本週: 130 | 📈 成長中
+📊 總計: 164 | 日均: 11.7 | 本週: 132 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -229,8 +242,12 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| ⬜ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 53 | 52 | 1 | 0 | 0 | ███████████████████░ 98% | 2026-05-17 |
+| ⬜ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 64 | 54 | 10 | 0 | 0 | ████████████████░░░░ 84% | 2026-05-18 |
   **[T053-worker-enqueue](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T053-worker-enqueue.md)**: T053 - Coder Worker 實際 Enqueue 邏輯實作
+  **[T055-auto-skill-extraction](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T055-auto-skill-extraction.md)**: T055 - 任務完成後技能自動提煉 Pipeline
+  **[T056-skill-matching-dispatch](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T056-skill-matching-dispatch.md)**: T056 - 技能相似度匹配與動態注入引擎
+  **[T057-dynamic-prompt-layering](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T057-dynamic-prompt-layering.md)**: T057 - 動態 System Prompt 分層組裝
+  **[T061-cross-agent-skill-sharing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T061-cross-agent-skill-sharing.md)**: T061 - 跨 Agent 技能共用機制
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
