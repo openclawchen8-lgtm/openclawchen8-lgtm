@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-18 14:20 · 自動生成
+> 最後更新: 2026-05-18 14:33 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 53 |
-| 任務總數 | 494 |
+| 任務總數 | 513 |
 | ✅ 已完成 | 423 |
-| ⬜ 待處理 | 58 |
+| ⬜ 待處理 | 77 |
 | 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 87% |
+| 總完成率 | 84% |
 
 ## 🔥 待處理高優先級任務
 
@@ -50,6 +50,13 @@
 | TaoLive-iOS | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
 | mindnav-codeagent | [T066-dynamic-task-decomposition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T066-dynamic-task-decomposition.md) | T066 - 動態任務拆解與平行執行機制 |
 | mindnav-codeagent | [T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md) | T068 - Supervisor Graph Redis 持久化 Checkpointer |
+| mindnav-codeagent | [T069-frontend-react-architecture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T069-frontend-react-architecture.md) | Frontend React 基礎架構 |
+| mindnav-codeagent | [T070-rest-api-standardization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T070-rest-api-standardization.md) | REST API 標準化 |
+| mindnav-codeagent | [T076-worker-output-channel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T076-worker-output-channel.md) | Worker Output Channel |
+| mindnav-codeagent | [T078-sqlite-kanban-schema](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T078-sqlite-kanban-schema.md) | SQLite Kanban Schema |
+| mindnav-codeagent | [T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md) | kanban_* Tool Interface |
+| mindnav-codeagent | [T083-failed-task-crash-recovery](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T083-failed-task-crash-recovery.md) | Failed Task + Crash Recovery |
+| mindnav-codeagent | [T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md) | kanban-auto-decompose Skill |
 
 ---
 
@@ -116,6 +123,25 @@
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
 | mindnav-codeagent | [T066-dynamic-task-decomposition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T066-dynamic-task-decomposition.md) | T066 - 動態任務拆解與平行執行機制 | ⬜ |
+| mindnav-codeagent | [T069-frontend-react-architecture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T069-frontend-react-architecture.md) | Frontend React 基礎架構 | ⬜ |
+| mindnav-codeagent | [T070-rest-api-standardization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T070-rest-api-standardization.md) | REST API 標準化 | ⬜ |
+| mindnav-codeagent | [T071-session-browser](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T071-session-browser.md) | Session Browser | ⬜ |
+| mindnav-codeagent | [T072-logs-viewer](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T072-logs-viewer.md) | Logs Viewer | ⬜ |
+| mindnav-codeagent | [T073-config-editor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T073-config-editor.md) | Config Editor | ⬜ |
+| mindnav-codeagent | [T074-api-keys-manager](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T074-api-keys-manager.md) | API Keys Manager | ⬜ |
+| mindnav-codeagent | [T075-analytics-dashboard](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T075-analytics-dashboard.md) | Analytics Dashboard | ⬜ |
+| mindnav-codeagent | [T076-worker-output-channel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T076-worker-output-channel.md) | Worker Output Channel | ⬜ |
+| mindnav-codeagent | [T077-running-workers-dashboard](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T077-running-workers-dashboard.md) | Running Workers Dashboard | ⬜ |
+| mindnav-codeagent | [T078-sqlite-kanban-schema](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T078-sqlite-kanban-schema.md) | SQLite Kanban Schema | ⬜ |
+| mindnav-codeagent | [T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md) | kanban_* Tool Interface | ⬜ |
+| mindnav-codeagent | [T080-task-board-ui](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T080-task-board-ui.md) | Task Board UI | ⬜ |
+| mindnav-codeagent | [T081-task-log-file-tailing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T081-task-log-file-tailing.md) | Task Log File Tailing | ⬜ |
+| mindnav-codeagent | [T082-parent-child-auto-promote](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T082-parent-child-auto-promote.md) | Parent→Child Auto Promote | ⬜ |
+| mindnav-codeagent | [T083-failed-task-crash-recovery](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T083-failed-task-crash-recovery.md) | Failed Task + Crash Recovery | ⬜ |
+| mindnav-codeagent | [T084-skill-browser-details-ui](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T084-skill-browser-details-ui.md) | Skill Browser + Details UI | ⬜ |
+| mindnav-codeagent | [T085-skill-backend-enhancement](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T085-skill-backend-enhancement.md) | Skill Backend 強化 | ⬜ |
+| mindnav-codeagent | [T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md) | kanban-auto-decompose Skill | ⬜ |
+| mindnav-codeagent | [T087-telegram-bot-commands](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T087-telegram-bot-commands.md) | T087 - Telegram Bot 指令擴充 | ⬜ |
 
 ## 🔄 進行中
 
@@ -229,9 +255,16 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 71 | 69 | 1 | 1 | 0 | ███████████████████░ 97% | 2026-05-18 |
+| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 90 | 69 | 20 | 1 | 0 | ███████████████░░░░░ 76% | 2026-05-18 |
   **[T066-dynamic-task-decomposition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T066-dynamic-task-decomposition.md)**: T066 - 動態任務拆解與平行執行機制
   **[T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md)**: T068 - Supervisor Graph Redis 持久化 Checkpointer
+  **[T069-frontend-react-architecture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T069-frontend-react-architecture.md)**: Frontend React 基礎架構
+  **[T070-rest-api-standardization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T070-rest-api-standardization.md)**: REST API 標準化
+  **[T076-worker-output-channel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T076-worker-output-channel.md)**: Worker Output Channel
+  **[T078-sqlite-kanban-schema](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T078-sqlite-kanban-schema.md)**: SQLite Kanban Schema
+  **[T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md)**: kanban_* Tool Interface
+  **[T083-failed-task-crash-recovery](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T083-failed-task-crash-recovery.md)**: Failed Task + Crash Recovery
+  **[T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md)**: kanban-auto-decompose Skill
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
