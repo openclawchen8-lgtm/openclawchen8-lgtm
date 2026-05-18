@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-18 13:02 · 自動生成
+> 最後更新: 2026-05-18 14:20 · 自動生成
 
 ---
 
@@ -9,10 +9,10 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 53 |
-| 任務總數 | 493 |
-| ✅ 已完成 | 422 |
-| ⬜ 待處理 | 59 |
-| 🔄 進行中 | 2 |
+| 任務總數 | 494 |
+| ✅ 已完成 | 423 |
+| ⬜ 待處理 | 58 |
+| 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 87% |
 
@@ -49,6 +49,7 @@
 | TaoLive-iOS | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 |
 | TaoLive-iOS | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/TaoLive-iOS/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
 | mindnav-codeagent | [T066-dynamic-task-decomposition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T066-dynamic-task-decomposition.md) | T066 - 動態任務拆解與平行執行機制 |
+| mindnav-codeagent | [T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md) | T068 - Supervisor Graph Redis 持久化 Checkpointer |
 
 ---
 
@@ -115,7 +116,6 @@
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
 | mindnav-codeagent | [T066-dynamic-task-decomposition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T066-dynamic-task-decomposition.md) | T066 - 動態任務拆解與平行執行機制 | ⬜ |
-| mindnav-codeagent | [T067-agent-prompt-migration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T067-agent-prompt-migration.md) | T067 - Agent System Prompt 搬移到 config/<role>/SOUL.md | ⬜ |
 
 ## 🔄 進行中
 
@@ -123,6 +123,7 @@
 |------|------|------|------|
 | Javis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/Javis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic | 🔄 |
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
+| mindnav-codeagent | [T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md) | T068 - Supervisor Graph Redis 持久化 Checkpointer | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -145,8 +146,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 146 |
-| 過去 30 天完成 | 270 |
+| 過去 7 天完成 | 147 |
+| 過去 30 天完成 | 271 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -156,10 +157,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18"]
     y-axis "完成數" 0 --> 38
-    line [0, 1, 28, 0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 17]
+    line [0, 1, 28, 0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 18]
 ```
 
-📊 總計: 178 | 日均: 12.7 | 本週: 146 | 📈 成長中
+📊 總計: 179 | 日均: 12.8 | 本週: 147 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -228,8 +229,9 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| ⬜ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 70 | 68 | 2 | 0 | 0 | ███████████████████░ 97% | 2026-05-18 |
+| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 71 | 69 | 1 | 1 | 0 | ███████████████████░ 97% | 2026-05-18 |
   **[T066-dynamic-task-decomposition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T066-dynamic-task-decomposition.md)**: T066 - 動態任務拆解與平行執行機制
+  **[T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md)**: T068 - Supervisor Graph Redis 持久化 Checkpointer
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
