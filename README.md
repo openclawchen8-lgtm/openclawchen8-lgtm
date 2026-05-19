@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-19 11:36 · 自動生成
+> 最後更新: 2026-05-19 11:39 · 自動生成
 
 ---
 
@@ -10,9 +10,9 @@
 |------|------|
 | 專案數 | 54 |
 | 任務總數 | 529 |
-| ✅ 已完成 | 442 |
+| ✅ 已完成 | 443 |
 | ⬜ 待處理 | 74 |
-| 🔄 進行中 | 3 |
+| 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 85% |
 
@@ -24,7 +24,6 @@
 | jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait |
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN |
-| mindnav-codeagent | [T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md) | T068 - Supervisor Graph Redis 持久化 Checkpointer |
 | mindnav-codeagent | [T076-worker-output-channel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T076-worker-output-channel.md) | Worker Output Channel |
 | mindnav-codeagent | [T078-sqlite-kanban-schema](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T078-sqlite-kanban-schema.md) | SQLite Kanban Schema |
 | mindnav-codeagent | [T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md) | kanban_* Tool Interface |
@@ -145,7 +144,6 @@
 |------|------|------|------|
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
 | jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic | 🔄 |
-| mindnav-codeagent | [T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md) | T068 - Supervisor Graph Redis 持久化 Checkpointer | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -168,8 +166,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 166 |
-| 過去 30 天完成 | 285 |
+| 過去 7 天完成 | 167 |
+| 過去 30 天完成 | 286 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -179,10 +177,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19"]
     y-axis "完成數" 0 --> 38
-    line [1, 28, 0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 29, 8]
+    line [1, 28, 0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 29, 9]
 ```
 
-📊 總計: 198 | 日均: 14.1 | 本週: 147 | 📈 成長中
+📊 總計: 199 | 日均: 14.2 | 本週: 148 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -226,8 +224,7 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 101 | 83 | 17 | 1 | 0 | ████████████████░░░░ 82% | 2026-05-19 |
-  **[T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md)**: T068 - Supervisor Graph Redis 持久化 Checkpointer
+| ⬜ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 101 | 84 | 17 | 0 | 0 | ████████████████░░░░ 83% | 2026-05-19 |
   **[T076-worker-output-channel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T076-worker-output-channel.md)**: Worker Output Channel
   **[T078-sqlite-kanban-schema](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T078-sqlite-kanban-schema.md)**: SQLite Kanban Schema
   **[T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md)**: kanban_* Tool Interface
