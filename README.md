@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-19 10:42 · 自動生成
+> 最後更新: 2026-05-19 10:45 · 自動生成
 
 ---
 
@@ -10,8 +10,8 @@
 |------|------|
 | 專案數 | 54 |
 | 任務總數 | 529 |
-| ✅ 已完成 | 441 |
-| ⬜ 待處理 | 75 |
+| ✅ 已完成 | 440 |
+| ⬜ 待處理 | 76 |
 | 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 84% |
@@ -21,6 +21,7 @@
 | 專案 | 任務 | 標題 |
 |------|------|------|
 | jarvis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 |
+| jarvis | [T005-FE-frontend-hud-design](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T005-FE-frontend-hud-design.md) | 前端 HUD 設計 |
 | jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait |
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN |
@@ -68,6 +69,7 @@
 | gold-analysis-advanced | [T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T002.md) | ML 模型整合與優化 | ⬜ |
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
 | jarvis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 | ⬜ |
+| jarvis | [T005-FE-frontend-hud-design](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T005-FE-frontend-hud-design.md) | 前端 HUD 設計 | ⬜ |
 | jarvis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | ⬜ |
 | jarvis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | ⬜ |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | ⬜ |
@@ -170,8 +172,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 165 |
-| 過去 30 天完成 | 284 |
+| 過去 7 天完成 | 164 |
+| 過去 30 天完成 | 283 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -180,11 +182,11 @@
 xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19"]
-    y-axis "完成數" 0 --> 38
-    line [1, 28, 0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 28, 8]
+    y-axis "完成數" 0 --> 37
+    line [1, 28, 0, 1, 2, 0, 19, 37, 19, 23, 30, 0, 28, 8]
 ```
 
-📊 總計: 197 | 日均: 14.1 | 本週: 146 | 📈 成長中
+📊 總計: 196 | 日均: 14.0 | 本週: 145 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -216,8 +218,9 @@ xychart-beta
 | ✅ | [ideas2tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-23 |
 | ✅ | [ideas2tasks-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-fix) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [jarvis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/jarvis) | 45 | 38 | 6 | 1 | 0 | ████████████████░░░░ 84% | 2026-05-14 |
+| 🔄 | [jarvis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/jarvis) | 45 | 37 | 7 | 1 | 0 | ████████████████░░░░ 82% | 2026-05-14 |
   **[T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T002-install-mnn-llm-qwen.md)**: T002-安裝MNN-LLM與下載Qwen模型
+  **[T005-FE-frontend-hud-design](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T005-FE-frontend-hud-design.md)**: 前端 HUD 設計
   **[T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md)**: T042-TANGO-EchoMimic
   **[T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md)**: T043-KlingAI-LivePortrait
   **[T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md)**: T044-uniTalker-MNN
