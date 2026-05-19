@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-19 10:39 · 自動生成
+> 最後更新: 2026-05-19 10:40 · 自動生成
 
 ---
 
@@ -11,8 +11,8 @@
 | 專案數 | 54 |
 | 任務總數 | 529 |
 | ✅ 已完成 | 441 |
-| ⬜ 待處理 | 75 |
-| 🔄 進行中 | 3 |
+| ⬜ 待處理 | 76 |
+| 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 84% |
 
@@ -20,10 +20,6 @@
 
 | 專案 | 任務 | 標題 |
 |------|------|------|
-| jarvis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 |
-| jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic |
-| jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait |
-| jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN |
 | mindnav-codeagent | [T066-dynamic-task-decomposition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T066-dynamic-task-decomposition.md) | T066 - 動態任務拆解與平行執行機制 |
 | mindnav-codeagent | [T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md) | T068 - Supervisor Graph Redis 持久化 Checkpointer |
 | mindnav-codeagent | [T076-worker-output-channel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T076-worker-output-channel.md) | Worker Output Channel |
@@ -67,9 +63,10 @@
 |------|------|------|------|
 | gold-analysis-advanced | [T002](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T002.md) | ML 模型整合與優化 | ⬜ |
 | gold-analysis-advanced | [T004](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T004.md) | 實盤交易對接 | ⬜ |
-| jarvis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T002-install-mnn-llm-qwen.md) | T002-安裝MNN-LLM與下載Qwen模型 | ⬜ |
+| jarvis | [T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T002-install-mnn-llm-qwen.md) | T002-install-mnn-llm-qwen | ⬜ |
 | jarvis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | ⬜ |
 | jarvis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | ⬜ |
+| jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic | ⬜ |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | ⬜ |
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN | ⬜ |
 | jarvis | [T045-digital-human-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T045-digital-human-research.md) | T045-digital-human-research | ⬜ |
@@ -146,7 +143,6 @@
 | 專案 | 任務 | 標題 | 狀態 |
 |------|------|------|------|
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
-| jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic | 🔄 |
 | mindnav-codeagent | [T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md) | T068 - Supervisor Graph Redis 持久化 Checkpointer | 🔄 |
 
 ## ⏭️ 跳過
@@ -216,11 +212,7 @@ xychart-beta
 | ✅ | [ideas2tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-23 |
 | ✅ | [ideas2tasks-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-fix) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [jarvis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/jarvis) | 45 | 38 | 6 | 1 | 0 | ████████████████░░░░ 84% | 2026-05-14 |
-  **[T002-install-mnn-llm-qwen](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T002-install-mnn-llm-qwen.md)**: T002-安裝MNN-LLM與下載Qwen模型
-  **[T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md)**: T042-TANGO-EchoMimic
-  **[T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md)**: T043-KlingAI-LivePortrait
-  **[T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md)**: T044-uniTalker-MNN
+| ⬜ | [jarvis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/jarvis) | 45 | 38 | 7 | 0 | 0 | ████████████████░░░░ 84% | 2026-05-14 |
 | ✅ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [llm-router](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/llm-router) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
