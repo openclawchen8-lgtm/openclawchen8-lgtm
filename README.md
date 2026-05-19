@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-18 16:34 · 自動生成
+> 最後更新: 2026-05-19 10:29 · 自動生成
 
 ---
 
@@ -8,10 +8,10 @@
 
 | 指標 | 數量 |
 |------|------|
-| 專案數 | 53 |
-| 任務總數 | 513 |
-| ✅ 已完成 | 427 |
-| ⬜ 待處理 | 73 |
+| 專案數 | 54 |
+| 任務總數 | 529 |
+| ✅ 已完成 | 441 |
+| ⬜ 待處理 | 75 |
 | 🔄 進行中 | 3 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 84% |
@@ -55,6 +55,8 @@
 | mindnav-codeagent | [T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md) | kanban_* Tool Interface |
 | mindnav-codeagent | [T083-failed-task-crash-recovery](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T083-failed-task-crash-recovery.md) | Failed Task + Crash Recovery |
 | mindnav-codeagent | [T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md) | kanban-auto-decompose Skill |
+| mindnav-codeagent | [T090-git-history-dashboard](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T090-git-history-dashboard.md) | Git History Dashboard |
+| mindnav-codeagent | [T095-graph-crop-theme-broken](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T095-graph-crop-theme-broken.md) | 流程圖裁切 + 佈景下拉選單無效（待調查） |
 
 ---
 
@@ -136,6 +138,8 @@
 | mindnav-codeagent | [T085-skill-backend-enhancement](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T085-skill-backend-enhancement.md) | Skill Backend 強化 | ⬜ |
 | mindnav-codeagent | [T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md) | kanban-auto-decompose Skill | ⬜ |
 | mindnav-codeagent | [T087-telegram-bot-commands](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T087-telegram-bot-commands.md) | T087 - Telegram Bot 指令擴充 | ⬜ |
+| mindnav-codeagent | [T090-git-history-dashboard](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T090-git-history-dashboard.md) | Git History Dashboard | ⬜ |
+| mindnav-codeagent | [T095-graph-crop-theme-broken](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T095-graph-crop-theme-broken.md) | 流程圖裁切 + 佈景下拉選單無效（待調查） | ⬜ |
 
 ## 🔄 進行中
 
@@ -166,8 +170,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 151 |
-| 過去 30 天完成 | 275 |
+| 過去 7 天完成 | 165 |
+| 過去 30 天完成 | 284 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -175,12 +179,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18"]
+    x-axis ["05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19"]
     y-axis "完成數" 0 --> 38
-    line [0, 1, 28, 0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 22]
+    line [1, 28, 0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 28, 8]
 ```
 
-📊 總計: 183 | 日均: 13.1 | 本週: 151 | 📈 成長中
+📊 總計: 197 | 日均: 14.1 | 本週: 146 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -249,7 +253,7 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 90 | 73 | 16 | 1 | 0 | ████████████████░░░░ 81% | 2026-05-18 |
+| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 101 | 82 | 18 | 1 | 0 | ████████████████░░░░ 81% | 2026-05-19 |
   **[T066-dynamic-task-decomposition](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T066-dynamic-task-decomposition.md)**: T066 - 動態任務拆解與平行執行機制
   **[T068-redis-checkpointer-supervisor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T068-redis-checkpointer-supervisor.md)**: T068 - Supervisor Graph Redis 持久化 Checkpointer
   **[T076-worker-output-channel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T076-worker-output-channel.md)**: Worker Output Channel
@@ -257,6 +261,8 @@ xychart-beta
   **[T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md)**: kanban_* Tool Interface
   **[T083-failed-task-crash-recovery](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T083-failed-task-crash-recovery.md)**: Failed Task + Crash Recovery
   **[T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md)**: kanban-auto-decompose Skill
+  **[T090-git-history-dashboard](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T090-git-history-dashboard.md)**: Git History Dashboard
+  **[T095-graph-crop-theme-broken](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T095-graph-crop-theme-broken.md)**: 流程圖裁切 + 佈景下拉選單無效（待調查）
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
@@ -267,6 +273,7 @@ xychart-beta
 | ✅ | [session-logger-plugin](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/session-logger-plugin) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [sinotrade-scraper](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/sinotrade-scraper) | 9 | 8 | 0 | 0 | 1 | ████████████████████ 100% | 2026-04-28 |
 | ✅ | [skill-enhancement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/skill-enhancement) | 4 | 4 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
+| ✅ | [skills-audit](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/skills-audit) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-19 |
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
