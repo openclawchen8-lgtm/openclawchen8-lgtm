@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-21 09:02 · 自動生成
+> 最後更新: 2026-05-21 09:33 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 54 |
-| 任務總數 | 529 |
-| ✅ 已完成 | 459 |
-| ⬜ 待處理 | 57 |
-| 🔄 進行中 | 3 |
+| 任務總數 | 534 |
+| ✅ 已完成 | 461 |
+| ⬜ 待處理 | 61 |
+| 🔄 進行中 | 2 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 88% |
+| 總完成率 | 87% |
 
 ## 🔥 待處理高優先級任務
 
@@ -24,7 +24,6 @@
 | jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait |
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN |
-| mindnav-codeagent | [T095-graph-crop-theme-broken](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T095-graph-crop-theme-broken.md) | 流程圖裁切 (已修復) + 佈景下拉選單無效 (持續調查) |
 | taolive-ios | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T08-analyze-dependencies.md) | T08-analyze-dependencies |
 | taolive-ios | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T09-prepare-dev-environment.md) | T09-prepare-dev-environment |
 | taolive-ios | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T12-setup-mnn-ios.md) | T12-setup-mnn-ios |
@@ -66,6 +65,10 @@
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN | ⬜ |
 | jarvis | [T045-digital-human-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T045-digital-human-research.md) | T045-digital-human-research | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
+| mindnav-codeagent | [T100-techspec-adr](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T100-techspec-adr.md) | T100-techspec-adr | ⬜ |
+| mindnav-codeagent | [T101-easy-first-task-sort](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T101-easy-first-task-sort.md) | T101-easy-first-task-sort | ⬜ |
+| mindnav-codeagent | [T102-token-budget-manager](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T102-token-budget-manager.md) | T102-token-budget-manager | ⬜ |
+| mindnav-codeagent | [T103-dynamic-iteration-limit](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T103-dynamic-iteration-limit.md) | T103-dynamic-iteration-limit | ⬜ |
 | taolive-ios | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T08-analyze-dependencies.md) | T08-analyze-dependencies | ⬜ |
 | taolive-ios | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T09-prepare-dev-environment.md) | T09-prepare-dev-environment | ⬜ |
 | taolive-ios | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T12-setup-mnn-ios.md) | T12-setup-mnn-ios | ⬜ |
@@ -121,7 +124,6 @@
 |------|------|------|------|
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
 | jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic | 🔄 |
-| mindnav-codeagent | [T095-graph-crop-theme-broken](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T095-graph-crop-theme-broken.md) | 流程圖裁切 (已修復) + 佈景下拉選單無效 (持續調查) | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -144,8 +146,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 126 |
-| 過去 30 天完成 | 277 |
+| 過去 7 天完成 | 128 |
+| 過去 30 天完成 | 279 |
 | 平均週期時間 | 0.8 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -155,10 +157,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21"]
     y-axis "完成數" 0 --> 38
-    line [0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 28, 9, 2, 15]
+    line [0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 28, 9, 2, 17]
 ```
 
-📊 總計: 186 | 日均: 13.3 | 本週: 107 | 📈 成長中
+📊 總計: 188 | 日均: 13.4 | 本週: 109 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -202,8 +204,7 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 101 | 100 | 0 | 1 | 0 | ███████████████████░ 99% | 2026-05-21 |
-  **[T095-graph-crop-theme-broken](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T095-graph-crop-theme-broken.md)**: 流程圖裁切 (已修復) + 佈景下拉選單無效 (持續調查)
+| ⬜ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 106 | 102 | 4 | 0 | 0 | ███████████████████░ 96% | 2026-05-21 |
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
