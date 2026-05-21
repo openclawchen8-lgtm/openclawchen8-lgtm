@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-21 07:52 · 自動生成
+> 最後更新: 2026-05-21 08:07 · 自動生成
 
 ---
 
@@ -10,8 +10,8 @@
 |------|------|
 | 專案數 | 54 |
 | 任務總數 | 529 |
-| ✅ 已完成 | 447 |
-| ⬜ 待處理 | 68 |
+| ✅ 已完成 | 450 |
+| ⬜ 待處理 | 65 |
 | 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 86% |
@@ -24,7 +24,6 @@
 | jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait |
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN |
-| mindnav-codeagent | [T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md) | kanban_* Tool Interface |
 | mindnav-codeagent | [T083-failed-task-crash-recovery](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T083-failed-task-crash-recovery.md) | Failed Task + Crash Recovery |
 | mindnav-codeagent | [T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md) | kanban-auto-decompose Skill |
 | mindnav-codeagent | [T090-git-history-dashboard](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T090-git-history-dashboard.md) | Git History Dashboard |
@@ -72,10 +71,7 @@
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
 | mindnav-codeagent | [T074-api-keys-manager](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T074-api-keys-manager.md) | API Keys Manager | ⬜ |
 | mindnav-codeagent | [T075-analytics-dashboard](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T075-analytics-dashboard.md) | Analytics Dashboard | ⬜ |
-| mindnav-codeagent | [T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md) | kanban_* Tool Interface | ⬜ |
-| mindnav-codeagent | [T080-task-board-ui](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T080-task-board-ui.md) | Task Board UI | ⬜ |
 | mindnav-codeagent | [T081-task-log-file-tailing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T081-task-log-file-tailing.md) | Task Log File Tailing | ⬜ |
-| mindnav-codeagent | [T082-parent-child-auto-promote](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T082-parent-child-auto-promote.md) | Parent→Child Auto Promote | ⬜ |
 | mindnav-codeagent | [T084-skill-browser-details-ui](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T084-skill-browser-details-ui.md) | Skill Browser + Details UI | ⬜ |
 | mindnav-codeagent | [T085-skill-backend-enhancement](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T085-skill-backend-enhancement.md) | Skill Backend 強化 | ⬜ |
 | mindnav-codeagent | [T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md) | kanban-auto-decompose Skill | ⬜ |
@@ -160,8 +156,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 114 |
-| 過去 30 天完成 | 265 |
+| 過去 7 天完成 | 117 |
+| 過去 30 天完成 | 268 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -171,10 +167,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21"]
     y-axis "完成數" 0 --> 38
-    line [0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 29, 9, 1, 3]
+    line [0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 29, 9, 1, 6]
 ```
 
-📊 總計: 174 | 日均: 12.4 | 本週: 95 | 📈 成長中
+📊 總計: 177 | 日均: 12.6 | 本週: 98 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -218,8 +214,7 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 101 | 88 | 11 | 2 | 0 | █████████████████░░░ 87% | 2026-05-21 |
-  **[T079-kanban-tool-interface](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T079-kanban-tool-interface.md)**: kanban_* Tool Interface
+| 🔄 | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 101 | 91 | 8 | 2 | 0 | ██████████████████░░ 90% | 2026-05-21 |
   **[T083-failed-task-crash-recovery](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T083-failed-task-crash-recovery.md)**: Failed Task + Crash Recovery
   **[T086-kanban-auto-decompose-skill](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T086-kanban-auto-decompose-skill.md)**: kanban-auto-decompose Skill
   **[T090-git-history-dashboard](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T090-git-history-dashboard.md)**: Git History Dashboard
