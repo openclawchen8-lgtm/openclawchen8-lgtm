@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-21 11:19 · 自動生成
+> 最後更新: 2026-05-21 11:31 · 自動生成
 
 ---
 
@@ -65,8 +65,8 @@
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN | ⬜ |
 | jarvis | [T045-digital-human-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T045-digital-human-research.md) | T045-digital-human-research | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
-| mindnav-codeagent | [T119-async-tools-chain-cache](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T119-async-tools-chain-cache.md) | 工具 async 化 + chain 快取 | ⬜ |
-| mindnav-codeagent | [T120-type-hints-pyproject-toml](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T120-type-hints-pyproject-toml.md) | Type hints 補全 + pattern 抽離 + pyproject.toml | ⬜ |
+| mindnav-codeagent | [T119-async-tools-chain-cache](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T119-async-tools-chain-cache.md) | T119-async-tools-chain-cache | ⬜ |
+| mindnav-codeagent | [T120-type-hints-pyproject-toml](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T120-type-hints-pyproject-toml.md) | T120-type-hints-pyproject-toml | ⬜ |
 | taolive-ios | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T08-analyze-dependencies.md) | T08-analyze-dependencies | ⬜ |
 | taolive-ios | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T09-prepare-dev-environment.md) | T09-prepare-dev-environment | ⬜ |
 | taolive-ios | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T12-setup-mnn-ios.md) | T12-setup-mnn-ios | ⬜ |
