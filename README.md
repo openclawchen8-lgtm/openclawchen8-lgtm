@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-21 15:03 · 自動生成
+> 最後更新: 2026-05-23 16:45 · 自動生成
 
 ---
 
@@ -9,10 +9,10 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 54 |
-| 任務總數 | 553 |
-| ✅ 已完成 | 484 |
-| ⬜ 待處理 | 57 |
-| 🔄 進行中 | 2 |
+| 任務總數 | 574 |
+| ✅ 已完成 | 502 |
+| ⬜ 待處理 | 61 |
+| 🔄 進行中 | 1 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 89% |
 
@@ -21,9 +21,9 @@
 | 專案 | 任務 | 標題 |
 |------|------|------|
 | jarvis | [T005-FE-frontend-hud-design](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T005-FE-frontend-hud-design.md) | 前端 HUD 設計 |
-| jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait |
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN |
+| jarvis | [T046-taoavatar-a2bs-macos-port](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T046-taoavatar-a2bs-macos-port.md) | T046-taoavatar-a2bs-macos-port |
 | taolive-ios | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T08-analyze-dependencies.md) | T08-analyze-dependencies |
 | taolive-ios | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T09-prepare-dev-environment.md) | T09-prepare-dev-environment |
 | taolive-ios | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T12-setup-mnn-ios.md) | T12-setup-mnn-ios |
@@ -64,7 +64,11 @@
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | ⬜ |
 | jarvis | [T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md) | T044-uniTalker-MNN | ⬜ |
 | jarvis | [T045-digital-human-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T045-digital-human-research.md) | T045-digital-human-research | ⬜ |
+| jarvis | [T046-taoavatar-a2bs-macos-port](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T046-taoavatar-a2bs-macos-port.md) | T046-taoavatar-a2bs-macos-port | ⬜ |
+| jarvis | [T047-did-streaming-api-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T047-did-streaming-api-integration.md) | T047-did-streaming-api-integration | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
+| mindnav-codeagent | [T139-role-file-version-history](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T139-role-file-version-history.md) | 角色檔案版本歷史管理 | ⬜ |
+| mindnav-codeagent | [T140-config-error-protection](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T140-config-error-protection.md) | 配置錯誤防護機制 | ⬜ |
 | taolive-ios | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T08-analyze-dependencies.md) | T08-analyze-dependencies | ⬜ |
 | taolive-ios | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T09-prepare-dev-environment.md) | T09-prepare-dev-environment | ⬜ |
 | taolive-ios | [T12-setup-mnn-ios](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T12-setup-mnn-ios.md) | T12-setup-mnn-ios | ⬜ |
@@ -119,7 +123,6 @@
 | 專案 | 任務 | 標題 | 狀態 |
 |------|------|------|------|
 | gold-analysis-advanced | [T001](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/gold-analysis-advanced/tasks/T001.md) | 機器學習模型開發 | 🔄 |
-| jarvis | [T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md) | T042-TANGO-EchoMimic | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -142,8 +145,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 151 |
-| 過去 30 天完成 | 302 |
+| 過去 7 天完成 | 127 |
+| 過去 30 天完成 | 299 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -151,12 +154,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21"]
+    x-axis ["05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23"]
     y-axis "完成數" 0 --> 40
-    line [0, 1, 2, 0, 19, 38, 19, 23, 30, 0, 28, 9, 2, 40]
+    line [2, 0, 19, 38, 19, 23, 30, 0, 28, 9, 2, 40, 10, 8]
 ```
 
-📊 總計: 211 | 日均: 15.1 | 本週: 132 | 📈 成長中
+📊 總計: 228 | 日均: 16.3 | 本週: 97 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -188,11 +191,11 @@ xychart-beta
 | ✅ | [ideas2tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-23 |
 | ✅ | [ideas2tasks-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-fix) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [ideas2tasks-improvements](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ideas2tasks-improvements) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [jarvis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/jarvis) | 45 | 38 | 6 | 1 | 0 | ████████████████░░░░ 84% | 2026-05-14 |
+| ⬜ | [jarvis](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/jarvis) | 47 | 39 | 8 | 0 | 0 | ████████████████░░░░ 82% | 2026-05-23 |
   **[T005-FE-frontend-hud-design](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T005-FE-frontend-hud-design.md)**: 前端 HUD 設計
-  **[T042-TANGO-EchoMimic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T042-TANGO-EchoMimic.md)**: T042-TANGO-EchoMimic
   **[T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md)**: T043-KlingAI-LivePortrait
   **[T044-uniTalker-MNN](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T044-uniTalker-MNN.md)**: T044-uniTalker-MNN
+  **[T046-taoavatar-a2bs-macos-port](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T046-taoavatar-a2bs-macos-port.md)**: T046-taoavatar-a2bs-macos-port
 | ✅ | [kgi-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/kgi-monitor) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-22 |
 | ✅ | [lifecycle-sync-fix](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/lifecycle-sync-fix) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-21 |
 | ✅ | [llm-router](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/llm-router) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
@@ -200,7 +203,7 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| ✅ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 125 | 125 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-21 |
+| ⬜ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 144 | 142 | 2 | 0 | 0 | ███████████████████░ 98% | 2026-05-23 |
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
