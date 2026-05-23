@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-23 16:45 · 自動生成
+> 最後更新: 2026-05-23 16:53 · 自動生成
 
 ---
 
@@ -10,8 +10,8 @@
 |------|------|
 | 專案數 | 54 |
 | 任務總數 | 574 |
-| ✅ 已完成 | 502 |
-| ⬜ 待處理 | 61 |
+| ✅ 已完成 | 503 |
+| ⬜ 待處理 | 60 |
 | 🔄 進行中 | 1 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 89% |
@@ -67,7 +67,6 @@
 | jarvis | [T046-taoavatar-a2bs-macos-port](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T046-taoavatar-a2bs-macos-port.md) | T046-taoavatar-a2bs-macos-port | ⬜ |
 | jarvis | [T047-did-streaming-api-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T047-did-streaming-api-integration.md) | T047-did-streaming-api-integration | ⬜ |
 | md-viewer-app | [T027-預覽連結懸停](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/md-viewer-app/tasks/T027-預覽連結懸停.md) | [T027] 連結懸停預覽 | ⬜ |
-| mindnav-codeagent | [T139-role-file-version-history](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T139-role-file-version-history.md) | 角色檔案版本歷史管理 | ⬜ |
 | mindnav-codeagent | [T140-config-error-protection](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/mindnav-codeagent/tasks/T140-config-error-protection.md) | 配置錯誤防護機制 | ⬜ |
 | taolive-ios | [T08-analyze-dependencies](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T08-analyze-dependencies.md) | T08-analyze-dependencies | ⬜ |
 | taolive-ios | [T09-prepare-dev-environment](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T09-prepare-dev-environment.md) | T09-prepare-dev-environment | ⬜ |
@@ -145,8 +144,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 127 |
-| 過去 30 天完成 | 299 |
+| 過去 7 天完成 | 128 |
+| 過去 30 天完成 | 300 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -156,10 +155,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23"]
     y-axis "完成數" 0 --> 40
-    line [2, 0, 19, 38, 19, 23, 30, 0, 28, 9, 2, 40, 10, 8]
+    line [2, 0, 19, 38, 19, 23, 30, 0, 28, 9, 2, 40, 10, 9]
 ```
 
-📊 總計: 228 | 日均: 16.3 | 本週: 97 | 📉 下降中
+📊 總計: 229 | 日均: 16.4 | 本週: 98 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -203,7 +202,7 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| ⬜ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 144 | 142 | 2 | 0 | 0 | ███████████████████░ 98% | 2026-05-23 |
+| ⬜ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 144 | 143 | 1 | 0 | 0 | ███████████████████░ 99% | 2026-05-23 |
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
