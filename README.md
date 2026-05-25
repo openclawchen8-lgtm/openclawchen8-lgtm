@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-23 17:36 · 自動生成
+> 最後更新: 2026-05-26 00:05 · 自動生成
 
 ---
 
@@ -9,8 +9,8 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 54 |
-| 任務總數 | 575 |
-| ✅ 已完成 | 509 |
+| 任務總數 | 577 |
+| ✅ 已完成 | 511 |
 | ⬜ 待處理 | 52 |
 | 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
@@ -137,8 +137,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 133 |
-| 過去 30 天完成 | 306 |
+| 過去 7 天完成 | 77 |
+| 過去 30 天完成 | 290 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -146,12 +146,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23"]
+    x-axis ["05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26"]
     y-axis "完成數" 0 --> 40
-    line [2, 0, 19, 39, 19, 23, 30, 0, 28, 9, 2, 40, 13, 11]
+    line [39, 19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 0, 0]
 ```
 
-📊 總計: 235 | 日均: 16.8 | 本週: 103 | 📉 下降中
+📊 總計: 216 | 日均: 15.4 | 本週: 68 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -193,7 +193,7 @@ xychart-beta
 | ✅ | [member-backup](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-backup) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [member-config-review](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-config-review) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-19 |
 | ✅ | [member-tasks](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/member-tasks) | 5 | 5 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
-| ✅ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 145 | 145 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-23 |
+| ✅ | [mindnav-codeagent](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/mindnav-codeagent) | 147 | 147 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-23 |
 | ✅ | [openclaw](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw) | 6 | 6 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [openclaw-scrum](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/openclaw-scrum) | 7 | 7 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-16 |
 | ✅ | [read](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/read) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
