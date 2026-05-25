@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-26 00:05 · 自動生成
+> 最後更新: 2026-05-26 00:14 · 自動生成
 
 ---
 
@@ -8,9 +8,9 @@
 
 | 指標 | 數量 |
 |------|------|
-| 專案數 | 54 |
-| 任務總數 | 577 |
-| ✅ 已完成 | 511 |
+| 專案數 | 55 |
+| 任務總數 | 595 |
+| ✅ 已完成 | 529 |
 | ⬜ 待處理 | 52 |
 | 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
@@ -137,8 +137,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 77 |
-| 過去 30 天完成 | 290 |
+| 過去 7 天完成 | 95 |
+| 過去 30 天完成 | 308 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -148,10 +148,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26"]
     y-axis "完成數" 0 --> 40
-    line [39, 19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 0, 0]
+    line [39, 19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 0]
 ```
 
-📊 總計: 216 | 日均: 15.4 | 本週: 68 | 📉 下降中
+📊 總計: 234 | 日均: 16.7 | 本週: 86 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -232,6 +232,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
+| ✅ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 18 | 18 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-25 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
