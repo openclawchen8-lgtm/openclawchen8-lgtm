@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-26 15:45 · 自動生成
+> 最後更新: 2026-05-26 17:23 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 55 |
-| 任務總數 | 608 |
-| ✅ 已完成 | 529 |
-| ⬜ 待處理 | 65 |
+| 任務總數 | 611 |
+| ✅ 已完成 | 545 |
+| ⬜ 待處理 | 52 |
 | 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 88% |
+| 總完成率 | 90% |
 
 ## 🔥 待處理高優先級任務
 
@@ -46,14 +46,6 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
-| tw-quant-selector | [T019-frontend-scaffold-design-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T019-frontend-scaffold-design-system.md) | Frontend Scaffold & Design System |
-| tw-quant-selector | [T020-dashboard-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T020-dashboard-page.md) | Dashboard Page — 今日總覽 |
-| tw-quant-selector | [T021-signal-stock-detail-pages](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T021-signal-stock-detail-pages.md) | Signal & Stock Detail Pages |
-| tw-quant-selector | [T022-backtest-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T022-backtest-page.md) | Backtest Analysis Page |
-| tw-quant-selector | [T026-base-table-component](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T026-base-table-component.md) | Reusable BaseTable Component |
-| tw-quant-selector | [T027-formatting-utilities-tooltip](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T027-formatting-utilities-tooltip.md) | Formatting Utilities & Tooltip Component |
-| tw-quant-selector | [T028-responsive-design](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T028-responsive-design.md) | Responsive Design Framework |
-| tw-quant-selector | [T029-accessibility](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T029-accessibility.md) | Accessibility WCAG 2.1 AA |
 
 ---
 
@@ -114,19 +106,6 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 | ⬜ |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 | ⬜ |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
-| tw-quant-selector | [T019-frontend-scaffold-design-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T019-frontend-scaffold-design-system.md) | Frontend Scaffold & Design System | ⬜ |
-| tw-quant-selector | [T020-dashboard-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T020-dashboard-page.md) | Dashboard Page — 今日總覽 | ⬜ |
-| tw-quant-selector | [T021-signal-stock-detail-pages](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T021-signal-stock-detail-pages.md) | Signal & Stock Detail Pages | ⬜ |
-| tw-quant-selector | [T022-backtest-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T022-backtest-page.md) | Backtest Analysis Page | ⬜ |
-| tw-quant-selector | [T023-strategy-portfolio-pages](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T023-strategy-portfolio-pages.md) | Strategy Configurator & Portfolio Tracker Pages | ⬜ |
-| tw-quant-selector | [T024-data-monitor-error-states](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T024-data-monitor-error-states.md) | Data Monitor + Error/Empty/Loading States | ⬜ |
-| tw-quant-selector | [T025-backend-api-enhancement](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T025-backend-api-enhancement.md) | Backend API Enhancement for Frontend | ⬜ |
-| tw-quant-selector | [T026-base-table-component](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T026-base-table-component.md) | Reusable BaseTable Component | ⬜ |
-| tw-quant-selector | [T027-formatting-utilities-tooltip](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T027-formatting-utilities-tooltip.md) | Formatting Utilities & Tooltip Component | ⬜ |
-| tw-quant-selector | [T028-responsive-design](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T028-responsive-design.md) | Responsive Design Framework | ⬜ |
-| tw-quant-selector | [T029-accessibility](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T029-accessibility.md) | Accessibility WCAG 2.1 AA | ⬜ |
-| tw-quant-selector | [T030-performance-budgets](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T030-performance-budgets.md) | Performance Budget & Optimization | ⬜ |
-| tw-quant-selector | [T031-export-enhancement](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T031-export-enhancement.md) | Export Enhancement (JSON + Column Selection) | ⬜ |
 
 ## 🔄 進行中
 
@@ -158,8 +137,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 95 |
-| 過去 30 天完成 | 308 |
+| 過去 7 天完成 | 111 |
+| 過去 30 天完成 | 324 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -169,10 +148,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26"]
     y-axis "完成數" 0 --> 40
-    line [39, 19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 0]
+    line [39, 19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 16]
 ```
 
-📊 總計: 234 | 日均: 16.7 | 本週: 86 | 📉 下降中
+📊 總計: 250 | 日均: 17.9 | 本週: 102 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -253,15 +232,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| ⬜ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 31 | 18 | 13 | 0 | 0 | ███████████░░░░░░░░░ 58% | 2026-05-26 |
-  **[T019-frontend-scaffold-design-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T019-frontend-scaffold-design-system.md)**: Frontend Scaffold & Design System
-  **[T020-dashboard-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T020-dashboard-page.md)**: Dashboard Page — 今日總覽
-  **[T021-signal-stock-detail-pages](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T021-signal-stock-detail-pages.md)**: Signal & Stock Detail Pages
-  **[T022-backtest-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T022-backtest-page.md)**: Backtest Analysis Page
-  **[T026-base-table-component](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T026-base-table-component.md)**: Reusable BaseTable Component
-  **[T027-formatting-utilities-tooltip](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T027-formatting-utilities-tooltip.md)**: Formatting Utilities & Tooltip Component
-  **[T028-responsive-design](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T028-responsive-design.md)**: Responsive Design Framework
-  **[T029-accessibility](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T029-accessibility.md)**: Accessibility WCAG 2.1 AA
+| ✅ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 34 | 34 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-26 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
