@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-27 20:03 · 自動生成
+> 最後更新: 2026-05-28 02:15 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 55 |
-| 任務總數 | 646 |
+| 任務總數 | 657 |
 | ✅ 已完成 | 565 |
-| ⬜ 待處理 | 65 |
+| ⬜ 待處理 | 76 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 88% |
+| 總完成率 | 87% |
 
 ## 🔥 待處理高優先級任務
 
@@ -51,6 +51,7 @@
 | tw-quant-selector | [T063-impact-preview-rebalance-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T063-impact-preview-rebalance-cost.md) | 套用影響預覽與再平衡成本 |
 | tw-quant-selector | [T066-derived-financial-fields](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T066-derived-financial-fields.md) | 衍生財務欄位計算 |
 | tw-quant-selector | [T068-guru-scoring-fifth-factor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T068-guru-scoring-fifth-factor.md) | 大師策略評分因子（第五因子）+ 每日快照 |
+| tw-quant-selector | [T070-toast-notification-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T070-toast-notification-system.md) | Toast 通知系統接入各頁面 |
 
 ---
 
@@ -124,6 +125,17 @@
 | tw-quant-selector | [T067-guru-filter-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T067-guru-filter-mode.md) | 大師策略篩選器模式（後端） | ⬜ |
 | tw-quant-selector | [T068-guru-scoring-fifth-factor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T068-guru-scoring-fifth-factor.md) | 大師策略評分因子（第五因子）+ 每日快照 | ⬜ |
 | tw-quant-selector | [T069-strategy-config-history](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T069-strategy-config-history.md) | 策略設定歷史記錄 | ⬜ |
+| tw-quant-selector | [T070-toast-notification-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T070-toast-notification-system.md) | Toast 通知系統接入各頁面 | ⬜ |
+| tw-quant-selector | [T071-marketstatus-sidebar-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T071-marketstatus-sidebar-integration.md) | MarketStatus 元件接入側欄 | ⬜ |
+| tw-quant-selector | [T072-basetable-component-unification](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T072-basetable-component-unification.md) | Signals / Dashboard 表格改用 BaseTable 統一元件 | ⬜ |
+| tw-quant-selector | [T073-css-state-classes-wiring](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T073-css-state-classes-wiring.md) | CSS State Classes 接入元件動態行為 | ⬜ |
+| tw-quant-selector | [T074-factor-history-api-stockdetail](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T074-factor-history-api-stockdetail.md) | 後端 factor-history API 接上 StockDetail 頁面 | ⬜ |
+| tw-quant-selector | [T075-signals-calendar-date-picker](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T075-signals-calendar-date-picker.md) | 後端 signals/calendar API 接上 Signals 日期選擇器 | ⬜ |
+| tw-quant-selector | [T076-backtest-detail-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T076-backtest-detail-page.md) | BacktestDetail 頁面接上後端回測明細 API | ⬜ |
+| tw-quant-selector | [T077-dashboard-data-status-panel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T077-dashboard-data-status-panel.md) | 後端 data/status API 接上 Dashboard 資料狀態面板 | ⬜ |
+| tw-quant-selector | [T078-tooltip-component-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T078-tooltip-component-integration.md) | Tooltip 元件接入頁面互動提示 | ⬜ |
+| tw-quant-selector | [T079-print-styles-colorblind-testing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T079-print-styles-colorblind-testing.md) | 完成 Print Styles (T059) 與 Color-Blind 人工測試 (T054) | ⬜ |
+| tw-quant-selector | [T080-color-utility-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T080-color-utility-integration.md) | color.ts 工具函式導入頁面取代手寫顏色邏輯 | ⬜ |
 
 ## 🔄 進行中
 
@@ -157,7 +169,7 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 122 |
+| 過去 7 天完成 | 120 |
 | 過去 30 天完成 | 344 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
@@ -166,12 +178,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27"]
+    x-axis ["05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28"]
     y-axis "完成數" 0 --> 40
-    line [19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 11]
+    line [23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 11, 0]
 ```
 
-📊 總計: 231 | 日均: 16.5 | 本週: 120 | 📈 成長中
+📊 總計: 212 | 日均: 15.1 | 本週: 80 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -252,12 +264,13 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 69 | 54 | 13 | 2 | 0 | ███████████████░░░░░ 78% | 2026-05-27 |
+| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 80 | 54 | 24 | 2 | 0 | █████████████░░░░░░░ 67% | 2026-05-28 |
   **[T060-slider-lock-weight-linkage](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T060-slider-lock-weight-linkage.md)**: 四因子滑桿鎖定與權重聯動
   **[T061-quick-preset-universe-filter](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T061-quick-preset-universe-filter.md)**: 策略預設組合與宇宙篩選強化
   **[T063-impact-preview-rebalance-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T063-impact-preview-rebalance-cost.md)**: 套用影響預覽與再平衡成本
   **[T066-derived-financial-fields](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T066-derived-financial-fields.md)**: 衍生財務欄位計算
   **[T068-guru-scoring-fifth-factor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T068-guru-scoring-fifth-factor.md)**: 大師策略評分因子（第五因子）+ 每日快照
+  **[T070-toast-notification-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T070-toast-notification-system.md)**: Toast 通知系統接入各頁面
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
