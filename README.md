@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-27 18:31 · 自動生成
+> 最後更新: 2026-05-27 18:34 · 自動生成
 
 ---
 
@@ -10,8 +10,8 @@
 |------|------|
 | 專案數 | 55 |
 | 任務總數 | 646 |
-| ✅ 已完成 | 561 |
-| ⬜ 待處理 | 70 |
+| ✅ 已完成 | 562 |
+| ⬜ 待處理 | 69 |
 | 🔄 進行中 | 5 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 88% |
@@ -111,7 +111,6 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 | ⬜ |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 | ⬜ |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
-| tw-quant-selector | [T052-backtest-comparison-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T052-backtest-comparison-mode.md) | T052-backtest-comparison-mode | ⬜ |
 | tw-quant-selector | [T053-data-density-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T053-data-density-system.md) | T053-data-density-system | ⬜ |
 | tw-quant-selector | [T054-color-blind-friendly](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T054-color-blind-friendly.md) | T054-color-blind-friendly | ⬜ |
 | tw-quant-selector | [T055-z-index-stacking-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T055-z-index-stacking-system.md) | T055-z-index-stacking-system | ⬜ |
@@ -161,8 +160,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 118 |
-| 過去 30 天完成 | 340 |
+| 過去 7 天完成 | 119 |
+| 過去 30 天完成 | 341 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -172,10 +171,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27"]
     y-axis "完成數" 0 --> 40
-    line [19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 7]
+    line [19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 8]
 ```
 
-📊 總計: 227 | 日均: 16.2 | 本週: 116 | 📈 成長中
+📊 總計: 228 | 日均: 16.3 | 本週: 117 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -256,7 +255,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 69 | 50 | 18 | 1 | 0 | ██████████████░░░░░░ 72% | 2026-05-27 |
+| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 69 | 51 | 17 | 1 | 0 | ██████████████░░░░░░ 73% | 2026-05-27 |
   **[T060-slider-lock-weight-linkage](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T060-slider-lock-weight-linkage.md)**: 四因子滑桿鎖定與權重聯動
   **[T061-quick-preset-universe-filter](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T061-quick-preset-universe-filter.md)**: 策略預設組合與宇宙篩選強化
   **[T063-impact-preview-rebalance-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T063-impact-preview-rebalance-cost.md)**: 套用影響預覽與再平衡成本
