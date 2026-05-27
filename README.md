@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-27 16:56 · 自動生成
+> 最後更新: 2026-05-27 18:31 · 自動生成
 
 ---
 
@@ -10,9 +10,9 @@
 |------|------|
 | 專案數 | 55 |
 | 任務總數 | 646 |
-| ✅ 已完成 | 560 |
-| ⬜ 待處理 | 72 |
-| 🔄 進行中 | 4 |
+| ✅ 已完成 | 561 |
+| ⬜ 待處理 | 70 |
+| 🔄 進行中 | 5 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 88% |
 
@@ -46,7 +46,6 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
-| tw-quant-selector | [T050-number-format-localization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T050-number-format-localization.md) | T050-number-format-localization |
 | tw-quant-selector | [T060-slider-lock-weight-linkage](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T060-slider-lock-weight-linkage.md) | 四因子滑桿鎖定與權重聯動 |
 | tw-quant-selector | [T061-quick-preset-universe-filter](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T061-quick-preset-universe-filter.md) | 策略預設組合與宇宙篩選強化 |
 | tw-quant-selector | [T063-impact-preview-rebalance-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T063-impact-preview-rebalance-cost.md) | 套用影響預覽與再平衡成本 |
@@ -112,8 +111,6 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 | ⬜ |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 | ⬜ |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
-| tw-quant-selector | [T050-number-format-localization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T050-number-format-localization.md) | T050-number-format-localization | ⬜ |
-| tw-quant-selector | [T051-chart-interaction-deep-spec](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T051-chart-interaction-deep-spec.md) | T051-chart-interaction-deep-spec | ⬜ |
 | tw-quant-selector | [T052-backtest-comparison-mode](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T052-backtest-comparison-mode.md) | T052-backtest-comparison-mode | ⬜ |
 | tw-quant-selector | [T053-data-density-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T053-data-density-system.md) | T053-data-density-system | ⬜ |
 | tw-quant-selector | [T054-color-blind-friendly](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T054-color-blind-friendly.md) | T054-color-blind-friendly | ⬜ |
@@ -141,6 +138,7 @@
 | jarvis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | 🔄 |
 | jarvis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | 🔄 |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | 🔄 |
+| tw-quant-selector | [T051-chart-interaction-deep-spec](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T051-chart-interaction-deep-spec.md) | T051-chart-interaction-deep-spec | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -163,8 +161,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 117 |
-| 過去 30 天完成 | 339 |
+| 過去 7 天完成 | 118 |
+| 過去 30 天完成 | 340 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -174,10 +172,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27"]
     y-axis "完成數" 0 --> 40
-    line [19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 6]
+    line [19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 7]
 ```
 
-📊 總計: 226 | 日均: 16.1 | 本週: 115 | 📈 成長中
+📊 總計: 227 | 日均: 16.2 | 本週: 116 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -258,8 +256,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| ⬜ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 69 | 49 | 20 | 0 | 0 | ██████████████░░░░░░ 71% | 2026-05-27 |
-  **[T050-number-format-localization](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T050-number-format-localization.md)**: T050-number-format-localization
+| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 69 | 50 | 18 | 1 | 0 | ██████████████░░░░░░ 72% | 2026-05-27 |
   **[T060-slider-lock-weight-linkage](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T060-slider-lock-weight-linkage.md)**: 四因子滑桿鎖定與權重聯動
   **[T061-quick-preset-universe-filter](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T061-quick-preset-universe-filter.md)**: 策略預設組合與宇宙篩選強化
   **[T063-impact-preview-rebalance-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T063-impact-preview-rebalance-cost.md)**: 套用影響預覽與再平衡成本
