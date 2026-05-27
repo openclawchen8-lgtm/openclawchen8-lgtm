@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-27 18:34 · 自動生成
+> 最後更新: 2026-05-27 18:39 · 自動生成
 
 ---
 
@@ -10,9 +10,9 @@
 |------|------|
 | 專案數 | 55 |
 | 任務總數 | 646 |
-| ✅ 已完成 | 562 |
+| ✅ 已完成 | 563 |
 | ⬜ 待處理 | 69 |
-| 🔄 進行中 | 5 |
+| 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 88% |
 
@@ -137,7 +137,6 @@
 | jarvis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | 🔄 |
 | jarvis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | 🔄 |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | 🔄 |
-| tw-quant-selector | [T051-chart-interaction-deep-spec](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T051-chart-interaction-deep-spec.md) | T051-chart-interaction-deep-spec | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -160,8 +159,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 119 |
-| 過去 30 天完成 | 341 |
+| 過去 7 天完成 | 120 |
+| 過去 30 天完成 | 342 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -171,10 +170,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27"]
     y-axis "完成數" 0 --> 40
-    line [19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 8]
+    line [19, 23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 9]
 ```
 
-📊 總計: 228 | 日均: 16.3 | 本週: 117 | 📈 成長中
+📊 總計: 229 | 日均: 16.4 | 本週: 118 | 📈 成長中
 
 ## 📋 專案列表
 
@@ -255,7 +254,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 69 | 51 | 17 | 1 | 0 | ██████████████░░░░░░ 73% | 2026-05-27 |
+| ⬜ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 69 | 52 | 17 | 0 | 0 | ███████████████░░░░░ 75% | 2026-05-27 |
   **[T060-slider-lock-weight-linkage](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T060-slider-lock-weight-linkage.md)**: 四因子滑桿鎖定與權重聯動
   **[T061-quick-preset-universe-filter](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T061-quick-preset-universe-filter.md)**: 策略預設組合與宇宙篩選強化
   **[T063-impact-preview-rebalance-cost](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T063-impact-preview-rebalance-cost.md)**: 套用影響預覽與再平衡成本
