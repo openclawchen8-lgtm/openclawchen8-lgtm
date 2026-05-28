@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-28 10:56 · 自動生成
+> 最後更新: 2026-05-28 11:43 · 自動生成
 
 ---
 
@@ -10,8 +10,8 @@
 |------|------|
 | 專案數 | 55 |
 | 任務總數 | 657 |
-| ✅ 已完成 | 577 |
-| ⬜ 待處理 | 64 |
+| ✅ 已完成 | 581 |
+| ⬜ 待處理 | 60 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 89% |
@@ -46,7 +46,6 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
-| tw-quant-selector | [T070-toast-notification-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T070-toast-notification-system.md) | Toast 通知系統接入各頁面 |
 
 ---
 
@@ -108,10 +107,6 @@
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 | ⬜ |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
 | tw-quant-selector | [T059-print-styles](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T059-print-styles.md) | Print Styles | ⬜ |
-| tw-quant-selector | [T070-toast-notification-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T070-toast-notification-system.md) | Toast 通知系統接入各頁面 | ⬜ |
-| tw-quant-selector | [T071-marketstatus-sidebar-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T071-marketstatus-sidebar-integration.md) | MarketStatus 元件接入側欄 | ⬜ |
-| tw-quant-selector | [T072-basetable-component-unification](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T072-basetable-component-unification.md) | Signals / Dashboard 表格改用 BaseTable 統一元件 | ⬜ |
-| tw-quant-selector | [T073-css-state-classes-wiring](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T073-css-state-classes-wiring.md) | CSS State Classes 接入元件動態行為 | ⬜ |
 | tw-quant-selector | [T074-factor-history-api-stockdetail](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T074-factor-history-api-stockdetail.md) | 後端 factor-history API 接上 StockDetail 頁面 | ⬜ |
 | tw-quant-selector | [T075-signals-calendar-date-picker](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T075-signals-calendar-date-picker.md) | 後端 signals/calendar API 接上 Signals 日期選擇器 | ⬜ |
 | tw-quant-selector | [T076-backtest-detail-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T076-backtest-detail-page.md) | BacktestDetail 頁面接上後端回測明細 API | ⬜ |
@@ -152,8 +147,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 132 |
-| 過去 30 天完成 | 356 |
+| 過去 7 天完成 | 136 |
+| 過去 30 天完成 | 360 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -163,10 +158,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28"]
     y-axis "完成數" 0 --> 40
-    line [23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 11, 12]
+    line [23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 6, 21]
 ```
 
-📊 總計: 224 | 日均: 16.0 | 本週: 92 | 📉 下降中
+📊 總計: 228 | 日均: 16.3 | 本週: 96 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -247,8 +242,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 80 | 66 | 12 | 2 | 0 | ████████████████░░░░ 82% | 2026-05-28 |
-  **[T070-toast-notification-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T070-toast-notification-system.md)**: Toast 通知系統接入各頁面
+| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 80 | 70 | 8 | 2 | 0 | █████████████████░░░ 87% | 2026-05-28 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
