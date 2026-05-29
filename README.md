@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-28 14:36 · 自動生成
+> 最後更新: 2026-05-29 23:19 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 55 |
-| 任務總數 | 657 |
-| ✅ 已完成 | 581 |
-| ⬜ 待處理 | 60 |
+| 任務總數 | 659 |
+| ✅ 已完成 | 591 |
+| ⬜ 待處理 | 52 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 89% |
+| 總完成率 | 91% |
 
 ## 🔥 待處理高優先級任務
 
@@ -106,14 +106,6 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 | ⬜ |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 | ⬜ |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
-| tw-quant-selector | [T059-print-styles](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T059-print-styles.md) | Print Styles | ⬜ |
-| tw-quant-selector | [T074-factor-history-api-stockdetail](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T074-factor-history-api-stockdetail.md) | 後端 factor-history API 接上 StockDetail 頁面 | ⬜ |
-| tw-quant-selector | [T075-signals-calendar-date-picker](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T075-signals-calendar-date-picker.md) | 後端 signals/calendar API 接上 Signals 日期選擇器 | ⬜ |
-| tw-quant-selector | [T076-backtest-detail-page](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T076-backtest-detail-page.md) | BacktestDetail 頁面接上後端回測明細 API | ⬜ |
-| tw-quant-selector | [T077-dashboard-data-status-panel](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T077-dashboard-data-status-panel.md) | 後端 data/status API 接上 Dashboard 資料狀態面板 | ⬜ |
-| tw-quant-selector | [T078-tooltip-component-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T078-tooltip-component-integration.md) | Tooltip 元件接入頁面互動提示 | ⬜ |
-| tw-quant-selector | [T079-print-styles-colorblind-testing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T079-print-styles-colorblind-testing.md) | 完成 Print Styles (T059) 與 Color-Blind 人工測試 (T054) | ⬜ |
-| tw-quant-selector | [T080-color-utility-integration](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T080-color-utility-integration.md) | color.ts 工具函式導入頁面取代手寫顏色邏輯 | ⬜ |
 
 ## 🔄 進行中
 
@@ -147,8 +139,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 136 |
-| 過去 30 天完成 | 360 |
+| 過去 7 天完成 | 106 |
+| 過去 30 天完成 | 355 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -156,12 +148,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28"]
+    x-axis ["05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29"]
     y-axis "完成數" 0 --> 40
-    line [23, 30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 6, 21]
+    line [30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 6, 21, 10]
 ```
 
-📊 總計: 228 | 日均: 16.3 | 本週: 96 | 📉 下降中
+📊 總計: 215 | 日均: 15.4 | 本週: 93 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -242,7 +234,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 80 | 70 | 8 | 2 | 0 | █████████████████░░░ 87% | 2026-05-28 |
+| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 82 | 80 | 0 | 2 | 0 | ███████████████████░ 97% | 2026-05-29 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
