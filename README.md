@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-29 23:30 · 自動生成
+> 最後更新: 2026-05-30 00:46 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 55 |
-| 任務總數 | 659 |
+| 任務總數 | 661 |
 | ✅ 已完成 | 591 |
-| ⬜ 待處理 | 52 |
+| ⬜ 待處理 | 54 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 91% |
+| 總完成率 | 90% |
 
 ## 🔥 待處理高優先級任務
 
@@ -106,6 +106,8 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 | ⬜ |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 | ⬜ |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
+| tw-quant-selector | [T083-tooltip-portal-stacking](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T083-tooltip-portal-stacking.md) | Tooltip Portal 改寫 + Z-index 堆疊管理 | ⬜ |
+| tw-quant-selector | [T084-custom-dropdown-portal](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T084-custom-dropdown-portal.md) | 自訂 Dropdown 元件 + Portal 渲染 | ⬜ |
 
 ## 🔄 進行中
 
@@ -139,7 +141,7 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 106 |
+| 過去 7 天完成 | 93 |
 | 過去 30 天完成 | 355 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
@@ -148,12 +150,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29"]
+    x-axis ["05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29", "05-30"]
     y-axis "完成數" 0 --> 40
-    line [30, 0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 6, 21, 10]
+    line [0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 6, 21, 10, 0]
 ```
 
-📊 總計: 215 | 日均: 15.4 | 本週: 93 | 📉 下降中
+📊 總計: 185 | 日均: 13.2 | 本週: 80 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -234,7 +236,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 82 | 80 | 0 | 2 | 0 | ███████████████████░ 97% | 2026-05-29 |
+| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 84 | 80 | 2 | 2 | 0 | ███████████████████░ 95% | 2026-05-29 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
