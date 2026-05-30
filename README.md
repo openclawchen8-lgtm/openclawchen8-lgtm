@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-30 02:13 · 自動生成
+> 最後更新: 2026-05-30 20:50 · 自動生成
 
 ---
 
@@ -9,8 +9,8 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 55 |
-| 任務總數 | 661 |
-| ✅ 已完成 | 591 |
+| 任務總數 | 663 |
+| ✅ 已完成 | 593 |
 | ⬜ 待處理 | 54 |
 | 🔄 進行中 | 6 |
 | ⏭️ 跳過 | 10 |
@@ -141,8 +141,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 93 |
-| 過去 30 天完成 | 355 |
+| 過去 7 天完成 | 95 |
+| 過去 30 天完成 | 357 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -152,10 +152,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29", "05-30"]
     y-axis "完成數" 0 --> 40
-    line [0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 6, 21, 10, 0]
+    line [0, 28, 9, 2, 40, 13, 13, 0, 18, 25, 6, 21, 10, 2]
 ```
 
-📊 總計: 185 | 日均: 13.2 | 本週: 80 | 📉 下降中
+📊 總計: 187 | 日均: 13.4 | 本週: 82 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -236,7 +236,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 84 | 80 | 2 | 2 | 0 | ███████████████████░ 95% | 2026-05-29 |
+| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 86 | 82 | 2 | 2 | 0 | ███████████████████░ 95% | 2026-05-30 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
