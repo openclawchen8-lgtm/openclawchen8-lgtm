@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-05-30 20:50 · 自動生成
+> 最後更新: 2026-05-30 23:09 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 55 |
-| 任務總數 | 663 |
+| 任務總數 | 676 |
 | ✅ 已完成 | 593 |
-| ⬜ 待處理 | 54 |
-| 🔄 進行中 | 6 |
+| ⬜ 待處理 | 66 |
+| 🔄 進行中 | 7 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 90% |
+| 總完成率 | 89% |
 
 ## 🔥 待處理高優先級任務
 
@@ -46,6 +46,10 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
+| tw-quant-selector | [T087-realtime-price-sse-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T087-realtime-price-sse-sync.md) | T087-realtime-price-sse-sync |
+| tw-quant-selector | [T091-remove-guru-passcount-hardcoded](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T091-remove-guru-passcount-hardcoded.md) | T091-remove-guru-passcount-hardcoded |
+| tw-quant-selector | [T098-fix-cors-vulnerability](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T098-fix-cors-vulnerability.md) | T098-fix-cors-vulnerability |
+| tw-quant-selector | [T099-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T099-fix-sensitive-info-exposure.md) | T099-fix-sensitive-info-exposure |
 
 ---
 
@@ -108,6 +112,18 @@
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
 | tw-quant-selector | [T083-tooltip-portal-stacking](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T083-tooltip-portal-stacking.md) | Tooltip Portal 改寫 + Z-index 堆疊管理 | ⬜ |
 | tw-quant-selector | [T084-custom-dropdown-portal](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T084-custom-dropdown-portal.md) | 自訂 Dropdown 元件 + Portal 渲染 | ⬜ |
+| tw-quant-selector | [T087-realtime-price-sse-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T087-realtime-price-sse-sync.md) | T087-realtime-price-sse-sync | ⬜ |
+| tw-quant-selector | [T088-portfolio-pie-charts](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T088-portfolio-pie-charts.md) | T088-portfolio-pie-charts | ⬜ |
+| tw-quant-selector | [T089-universe-count-api](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T089-universe-count-api.md) | 修正篩選結果預估：新增後端 API 查詢實際數量 | ⬜ |
+| tw-quant-selector | [T091-remove-guru-passcount-hardcoded](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T091-remove-guru-passcount-hardcoded.md) | T091-remove-guru-passcount-hardcoded | ⬜ |
+| tw-quant-selector | [T092-backtest-daily-rebalance](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T092-backtest-daily-rebalance.md) | T092-backtest-daily-rebalance | ⬜ |
+| tw-quant-selector | [T093-refactor-decimal-nan-mixing](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T093-refactor-decimal-nan-mixing.md) | T093-refactor-decimal-nan-mixing | ⬜ |
+| tw-quant-selector | [T094-remove-any-type-abuse](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T094-remove-any-type-abuse.md) | T094-remove-any-type-abuse | ⬜ |
+| tw-quant-selector | [T095-sql-fstring-whitelist](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T095-sql-fstring-whitelist.md) | T095-sql-fstring-whitelist | ⬜ |
+| tw-quant-selector | [T096-api-parameter-validation](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T096-api-parameter-validation.md) | T096-api-parameter-validation | ⬜ |
+| tw-quant-selector | [T097-code-quality-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T097-code-quality-improvement.md) | T097-code-quality-improvement | ⬜ |
+| tw-quant-selector | [T098-fix-cors-vulnerability](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T098-fix-cors-vulnerability.md) | T098-fix-cors-vulnerability | ⬜ |
+| tw-quant-selector | [T099-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T099-fix-sensitive-info-exposure.md) | T099-fix-sensitive-info-exposure | ⬜ |
 
 ## 🔄 進行中
 
@@ -119,6 +135,7 @@
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | 🔄 |
 | tw-quant-selector | [T054-color-blind-friendly](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T054-color-blind-friendly.md) | Color-Blind Friendly Design | 🔄 |
 | tw-quant-selector | [T055-z-index-stacking-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T055-z-index-stacking-system.md) | Z-Index Stacking System | 🔄 |
+| tw-quant-selector | [T090-code-review-hardcoded-data](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T090-code-review-hardcoded-data.md) | 程式碼審查：找出潛在問題與硬編碼假資料 | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -236,7 +253,11 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 86 | 82 | 2 | 2 | 0 | ███████████████████░ 95% | 2026-05-30 |
+| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 99 | 82 | 14 | 3 | 0 | ████████████████░░░░ 82% | 2026-05-30 |
+  **[T087-realtime-price-sse-sync](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T087-realtime-price-sse-sync.md)**: T087-realtime-price-sse-sync
+  **[T091-remove-guru-passcount-hardcoded](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T091-remove-guru-passcount-hardcoded.md)**: T091-remove-guru-passcount-hardcoded
+  **[T098-fix-cors-vulnerability](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T098-fix-cors-vulnerability.md)**: T098-fix-cors-vulnerability
+  **[T099-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T099-fix-sensitive-info-exposure.md)**: T099-fix-sensitive-info-exposure
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
