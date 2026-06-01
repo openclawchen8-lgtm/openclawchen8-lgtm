@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-06-01 22:47 · 自動生成
+> 最後更新: 2026-06-02 00:01 · 自動生成
 
 ---
 
@@ -10,9 +10,9 @@
 |------|------|
 | 專案數 | 55 |
 | 任務總數 | 677 |
-| ✅ 已完成 | 607 |
-| ⬜ 待處理 | 54 |
-| 🔄 進行中 | 6 |
+| ✅ 已完成 | 610 |
+| ⬜ 待處理 | 53 |
+| 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 91% |
 
@@ -107,7 +107,6 @@
 | taolive-ios | [T65-add-miniaudio](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T65-add-miniaudio.md) | 下載並將遺失的 miniaudio 程式庫加入專案 | ⬜ |
 | taolive-ios | [T66-fix-headers-build-settings](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T66-fix-headers-build-settings.md) | 修正標頭檔路徑並清理重複編譯設定 | ⬜ |
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
-| tw-quant-selector | [T099-strategy-config-history-pagination-batch-delete](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T099-strategy-config-history-pagination-batch-delete.md) | 策略設定歷史分頁 + 批量刪除 | ⬜ |
 | tw-quant-selector | [T100-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T100-fix-sensitive-info-exposure.md) | T100-fix-sensitive-info-exposure | ⬜ |
 
 ## 🔄 進行中
@@ -118,8 +117,6 @@
 | jarvis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | 🔄 |
 | jarvis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | 🔄 |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | 🔄 |
-| tw-quant-selector | [T054-color-blind-friendly](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T054-color-blind-friendly.md) | Color-Blind Friendly Design | 🔄 |
-| tw-quant-selector | [T055-z-index-stacking-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T055-z-index-stacking-system.md) | Z-Index Stacking System | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -142,8 +139,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 96 |
-| 過去 30 天完成 | 363 |
+| 過去 7 天完成 | 81 |
+| 過去 30 天完成 | 366 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -151,12 +148,12 @@
 ```mermaid
 xychart-beta
     title "過去 14 天任務完成趨勢"
-    x-axis ["05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29", "05-30", "05-31", "06-01"]
+    x-axis ["05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29", "05-30", "05-31", "06-01", "06-02"]
     y-axis "完成數" 0 --> 40
-    line [9, 2, 40, 13, 13, 0, 18, 25, 6, 21, 11, 6, 1, 8]
+    line [2, 40, 13, 13, 0, 18, 25, 6, 23, 11, 6, 1, 9, 0]
 ```
 
-📊 總計: 173 | 日均: 12.4 | 本週: 78 | 📉 下降中
+📊 總計: 167 | 日均: 11.9 | 本週: 56 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -237,7 +234,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 100 | 96 | 2 | 2 | 0 | ███████████████████░ 96% | 2026-06-01 |
+| ⬜ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 100 | 99 | 1 | 0 | 0 | ███████████████████░ 99% | 2026-06-01 |
   **[T100-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T100-fix-sensitive-info-exposure.md)**: T100-fix-sensitive-info-exposure
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
