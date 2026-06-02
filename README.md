@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-06-02 21:14 · 自動生成
+> 最後更新: 2026-06-02 21:19 · 自動生成
 
 ---
 
@@ -10,8 +10,8 @@
 |------|------|
 | 專案數 | 55 |
 | 任務總數 | 705 |
-| ✅ 已完成 | 615 |
-| ⬜ 待處理 | 76 |
+| ✅ 已完成 | 616 |
+| ⬜ 待處理 | 75 |
 | 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
 | 總完成率 | 88% |
@@ -118,7 +118,6 @@
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
 | tw-quant-selector | [T100-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T100-fix-sensitive-info-exposure.md) | T100-fix-sensitive-info-exposure | ⬜ |
 | tw-quant-selector | [T106-postgresql-migration-verification](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T106-postgresql-migration-verification.md) | T106-postgresql-migration-verification | ⬜ |
-| tw-quant-selector | [T107-performance-monitoring](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T107-performance-monitoring.md) | T107-performance-monitoring | ⬜ |
 | tw-quant-selector | [T108-institutional-ingestion-pipeline](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T108-institutional-ingestion-pipeline.md) | T108-institutional-ingestion-pipeline | ⬜ |
 | tw-quant-selector | [T109-institutional-flows-schema](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T109-institutional-flows-schema.md) | T109-institutional-flows-schema | ⬜ |
 | tw-quant-selector | [T110-basic-alert-system](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T110-basic-alert-system.md) | T110-basic-alert-system | ⬜ |
@@ -171,8 +170,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 86 |
-| 過去 30 天完成 | 371 |
+| 過去 7 天完成 | 87 |
+| 過去 30 天完成 | 372 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -182,10 +181,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29", "05-30", "05-31", "06-01", "06-02"]
     y-axis "完成數" 0 --> 40
-    line [2, 40, 13, 13, 0, 18, 25, 6, 23, 11, 6, 1, 9, 5]
+    line [2, 40, 13, 13, 0, 18, 25, 6, 23, 11, 6, 1, 9, 6]
 ```
 
-📊 總計: 172 | 日均: 12.3 | 本週: 61 | 📉 下降中
+📊 總計: 173 | 日均: 12.4 | 本週: 62 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -266,7 +265,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| ⬜ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 128 | 104 | 24 | 0 | 0 | ████████████████░░░░ 81% | 2026-06-02 |
+| ⬜ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 128 | 105 | 23 | 0 | 0 | ████████████████░░░░ 82% | 2026-06-02 |
   **[T100-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T100-fix-sensitive-info-exposure.md)**: T100-fix-sensitive-info-exposure
   **[T106-postgresql-migration-verification](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T106-postgresql-migration-verification.md)**: T106-postgresql-migration-verification
   **[T108-institutional-ingestion-pipeline](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T108-institutional-ingestion-pipeline.md)**: T108-institutional-ingestion-pipeline
