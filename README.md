@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-06-04 11:53 · 自動生成
+> 最後更新: 2026-06-04 14:38 · 自動生成
 
 ---
 
@@ -10,11 +10,11 @@
 |------|------|
 | 專案數 | 55 |
 | 任務總數 | 705 |
-| ✅ 已完成 | 620 |
-| ⬜ 待處理 | 71 |
+| ✅ 已完成 | 628 |
+| ⬜ 待處理 | 63 |
 | 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 89% |
+| 總完成率 | 90% |
 
 ## 🔥 待處理高優先級任務
 
@@ -48,8 +48,6 @@
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 |
 | tw-quant-selector | [T100-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T100-fix-sensitive-info-exposure.md) | T100-fix-sensitive-info-exposure |
 | tw-quant-selector | [T106-postgresql-migration-verification](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T106-postgresql-migration-verification.md) | T106-postgresql-migration-verification |
-| tw-quant-selector | [T112-institutional-factor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T112-institutional-factor.md) | T112-institutional-factor |
-| tw-quant-selector | [T114-mis-realtime-quotes](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T114-mis-realtime-quotes.md) | T114-mis-realtime-quotes |
 | tw-quant-selector | [T120-institutional-strategy-factors](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T120-institutional-strategy-factors.md) | T120-institutional-strategy-factors |
 | tw-quant-selector | [T121-realtime-pe-pb-ui](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T121-realtime-pe-pb-ui.md) | T121-realtime-pe-pb-ui |
 | tw-quant-selector | [T122-smart-alerts](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T122-smart-alerts.md) | T122-smart-alerts |
@@ -116,14 +114,6 @@
 | taolive-ios | [T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md) | 調整 Excluded Architectures 設定以相容模擬器 | ⬜ |
 | tw-quant-selector | [T100-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T100-fix-sensitive-info-exposure.md) | T100-fix-sensitive-info-exposure | ⬜ |
 | tw-quant-selector | [T106-postgresql-migration-verification](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T106-postgresql-migration-verification.md) | T106-postgresql-migration-verification | ⬜ |
-| tw-quant-selector | [T112-institutional-factor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T112-institutional-factor.md) | T112-institutional-factor | ⬜ |
-| tw-quant-selector | [T113-strategy-ui-institutional](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T113-strategy-ui-institutional.md) | T113-strategy-ui-institutional | ⬜ |
-| tw-quant-selector | [T114-mis-realtime-quotes](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T114-mis-realtime-quotes.md) | T114-mis-realtime-quotes | ⬜ |
-| tw-quant-selector | [T115-realtime-pe-pb](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T115-realtime-pe-pb.md) | T115-realtime-pe-pb | ⬜ |
-| tw-quant-selector | [T116-websocket-push](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T116-websocket-push.md) | T116-websocket-push | ⬜ |
-| tw-quant-selector | [T117-realtime-price-alerts](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T117-realtime-price-alerts.md) | T117-realtime-price-alerts | ⬜ |
-| tw-quant-selector | [T118-streamlit-basic](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T118-streamlit-basic.md) | T118-streamlit-basic | ⬜ |
-| tw-quant-selector | [T119-streamlit-full](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T119-streamlit-full.md) | T119-streamlit-full | ⬜ |
 | tw-quant-selector | [T120-institutional-strategy-factors](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T120-institutional-strategy-factors.md) | T120-institutional-strategy-factors | ⬜ |
 | tw-quant-selector | [T121-realtime-pe-pb-ui](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T121-realtime-pe-pb-ui.md) | T121-realtime-pe-pb-ui | ⬜ |
 | tw-quant-selector | [T122-smart-alerts](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T122-smart-alerts.md) | T122-smart-alerts | ⬜ |
@@ -164,8 +154,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 60 |
-| 過去 30 天完成 | 376 |
+| 過去 7 天完成 | 68 |
+| 過去 30 天完成 | 384 |
 | 平均週期時間 | 0.7 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -175,10 +165,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29", "05-30", "05-31", "06-01", "06-02", "06-03", "06-04"]
     y-axis "完成數" 0 --> 25
-    line [13, 13, 0, 18, 25, 6, 23, 11, 6, 1, 9, 9, 0, 1]
+    line [13, 13, 0, 18, 25, 6, 23, 11, 6, 1, 9, 12, 0, 6]
 ```
 
-📊 總計: 135 | 日均: 9.6 | 本週: 37 | 📉 下降中
+📊 總計: 143 | 日均: 10.2 | 本週: 45 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -259,11 +249,9 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| ⬜ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 128 | 109 | 19 | 0 | 0 | █████████████████░░░ 85% | 2026-06-04 |
+| ⬜ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 128 | 117 | 11 | 0 | 0 | ██████████████████░░ 91% | 2026-06-04 |
   **[T100-fix-sensitive-info-exposure](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T100-fix-sensitive-info-exposure.md)**: T100-fix-sensitive-info-exposure
   **[T106-postgresql-migration-verification](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T106-postgresql-migration-verification.md)**: T106-postgresql-migration-verification
-  **[T112-institutional-factor](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T112-institutional-factor.md)**: T112-institutional-factor
-  **[T114-mis-realtime-quotes](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T114-mis-realtime-quotes.md)**: T114-mis-realtime-quotes
   **[T120-institutional-strategy-factors](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T120-institutional-strategy-factors.md)**: T120-institutional-strategy-factors
   **[T121-realtime-pe-pb-ui](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T121-realtime-pe-pb-ui.md)**: T121-realtime-pe-pb-ui
   **[T122-smart-alerts](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T122-smart-alerts.md)**: T122-smart-alerts
