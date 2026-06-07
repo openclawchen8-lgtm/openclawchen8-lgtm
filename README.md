@@ -1,6 +1,6 @@
 # 📁 Projects Dashboard
 
-> 最後更新: 2026-06-07 03:01 · 自動生成
+> 最後更新: 2026-06-07 22:45 · 自動生成
 
 ---
 
@@ -9,12 +9,12 @@
 | 指標 | 數量 |
 |------|------|
 | 專案數 | 55 |
-| 任務總數 | 707 |
-| ✅ 已完成 | 640 |
+| 任務總數 | 710 |
+| ✅ 已完成 | 644 |
 | ⬜ 待處理 | 52 |
-| 🔄 進行中 | 5 |
+| 🔄 進行中 | 4 |
 | ⏭️ 跳過 | 10 |
-| 總完成率 | 91% |
+| 總完成率 | 92% |
 
 ## 🔥 待處理高優先級任務
 
@@ -115,7 +115,6 @@
 | jarvis | [T021-jitsi-audio-capture](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T021-jitsi-audio-capture.md) | Jitsi 語音串接 — 音訊捕獲 | 🔄 |
 | jarvis | [T022-jitsi-audio-playback](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T022-jitsi-audio-playback.md) | Jitsi 語音串接 — 音訊播放回會議室 | 🔄 |
 | jarvis | [T043-KlingAI-LivePortrait](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/jarvis/tasks/T043-KlingAI-LivePortrait.md) | T043-KlingAI-LivePortrait | 🔄 |
-| tw-quant-selector | [T129-ingestion-cfo-bs-enhance](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/tw-quant-selector/tasks/T129-ingestion-cfo-bs-enhance.md) | ingestion 擴展現金流與資產負債表欄位（CFO / CurrentRatio） | 🔄 |
 
 ## ⏭️ 跳過
 
@@ -138,8 +137,8 @@
 
 | 指標 | 數值 |
 |------|------|
-| 過去 7 天完成 | 40 |
-| 過去 30 天完成 | 367 |
+| 過去 7 天完成 | 44 |
+| 過去 30 天完成 | 371 |
 | 平均週期時間 | 0.8 天 |
 | 週期時間中位數 | 0.0 天 |
 
@@ -149,10 +148,10 @@ xychart-beta
     title "過去 14 天任務完成趨勢"
     x-axis ["05-25", "05-26", "05-27", "05-28", "05-29", "05-30", "05-31", "06-01", "06-02", "06-03", "06-04", "06-05", "06-06", "06-07"]
     y-axis "完成數" 0 --> 25
-    line [18, 25, 6, 23, 11, 6, 1, 9, 13, 0, 6, 2, 5, 4]
+    line [18, 25, 6, 23, 11, 6, 1, 9, 13, 0, 6, 2, 5, 8]
 ```
 
-📊 總計: 129 | 日均: 9.2 | 本週: 39 | 📉 下降中
+📊 總計: 133 | 日均: 9.5 | 本週: 43 | 📉 下降中
 
 ## 📋 專案列表
 
@@ -233,7 +232,7 @@ xychart-beta
   **[T67-excluded-architectures](https://github.com/openclawchen8-lgtm/openclaw-tasks/blob/main/taolive-ios/tasks/T67-excluded-architectures.md)**: 調整 Excluded Architectures 設定以相容模擬器
 | ✅ | [task-url-repair](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/task-url-repair) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-20 |
 | ✅ | [tasks-executor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tasks-executor) | 8 | 8 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-12 |
-| 🔄 | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 130 | 129 | 0 | 1 | 0 | ███████████████████░ 99% | 2026-06-07 |
+| ✅ | [tw-quant-selector](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/tw-quant-selector) | 133 | 133 | 0 | 0 | 0 | ████████████████████ 100% | 2026-06-07 |
 | ✅ | [twse-monitor](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twse-monitor) | 11 | 11 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-07 |
 | ✅ | [twstock-bfp-research](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/twstock-bfp-research) | 1 | 1 | 0 | 0 | 0 | ████████████████████ 100% | 2026-05-06 |
 | ✅ | [ux-improvement](https://github.com/openclawchen8-lgtm/openclaw-tasks/tree/main/ux-improvement) | 2 | 2 | 0 | 0 | 0 | ████████████████████ 100% | 2026-04-04 |
